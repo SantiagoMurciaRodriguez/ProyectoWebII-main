@@ -1,0 +1,25 @@
+﻿@model IEnumerable<ProyectoAerolineaWeb.Models.Tarifa>
+
+<div id="tarifas" class="container-fluid">
+    <h1 class="text-primary">Tarifas Disponibles</h1>
+
+    <table class="table table-bordered table-hover mt-3">
+        <thead class="table-dark">
+            <tr>
+                <th>Nombre</th>
+                <th>Precio</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var tarifa in Model)
+            {
+                <tr>
+                    <td>@tarifa.Nombre</td>
+                    <td>@tarifa.Precio.ToString("C")</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+

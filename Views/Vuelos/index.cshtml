@@ -1,0 +1,59 @@
+﻿@model ProyectoAerolineaWeb.Models.VuelosViewModel
+
+<div id="vuelo">
+    <h1>Vuelos y Disponibilidad</h1>
+
+    <h3 class="text-success mt-4">Vuelos Disponibles</h3>
+    <table class="table table-bordered table-hover">
+        <thead class="table-success">
+            <tr>
+                <th>Número de Vuelo</th>
+                <th>Ciudad Origen</th>
+                <th>Ciudad Destino</th>
+                <th>Fecha</th>
+                <th>Asientos Disponibles</th>
+                <th>Elegir</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var vuelo in Model.Disponibles)
+            {
+                <tr>
+                    <td>@vuelo.NumeroVuelo</td>
+                    <td>@vuelo.CiudadOrigen.Nombre</td>
+                    <td>@vuelo.CiudadDestino.Nombre</td>
+                    <td>@vuelo.Fecha.ToString("dd/MM/yyyy HH:mm")</td>
+                    <td>@vuelo.AsientosDisponibles</td>
+                    <td>
+                        <a asp-controller="Vuelos" asp-action="Cantidad" asp-route-vueloId="@vuelo.Id" class="btn btn-sm btn-primary">Seleccioanr</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <h3 class="text-danger mt-5">Vuelos No Disponibles</h3>
+    <table class="table table-bordered table-hover">
+        <thead class="table-danger">
+            <tr>
+                <th>Número de Vuelo</th>
+                <th>Ciudad Origen</th>
+                <th>Ciudad Destino</th>
+                <th>Fecha</th>
+                <th>Asientos Disponibles</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var vuelo in Model.NoDisponibles)
+            {
+                <tr>
+                    <td>@vuelo.NumeroVuelo</td>
+                    <td>@vuelo.CiudadOrigen.Nombre</td>
+                    <td>@vuelo.CiudadDestino.Nombre</td>
+                    <td>@vuelo.Fecha.ToString("dd/MM/yyyy HH:mm")</td>
+                    <td>@vuelo.AsientosDisponibles</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

@@ -1,0 +1,99 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+#principal {
+    background-image: url('/img/Home/Passenger-plane-front-view-runway-asphalt-sunrise_2560x1440.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 1800px;
+    background-attachment: fixed;
+    background-size: cover;
+    opacity: 0.9;
+}
+
+#vuelo {
+    background-image: url('/img/Home/imagen 1 avion.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 1800px;
+    background-attachment: fixed;
+    background-size: cover;
+    opacity: 0.9;
+}
+
+#tarifas {
+    background-image: url('/img/Home/imagen 1 avion.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    opacity: 0.9;
+    /* Ajustes para ocupar toda la pantalla */
+    width: 100%; /* Ocupa todo el ancho */
+    height: 100vh; /* Ocupa toda la altura de la ventana */
+    display: flex; /* Para centrar contenido si es necesario */
+    flex-direction: column; /* Alineación vertical */
+    justify-content: center; /* Centrar verticalmente */
+    align-items: center; /* Centrar horizontalmente */
+    padding: 20px; /* Espaciado interno */
+    box-sizing: border-box; /* Incluye padding en el tamaño total */
+}
+
+
+#privacidad {
+    background-image: url('/img/Privacidad/atardecer2.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 1800px;
+    background-attachment: fixed;
+    background-size: cover;
+    opacity: 0.9;
+}
+
+
+#vuelo .table-responsive {
+    background-color: rgba(255, 255, 255, 0.95); 
+}
+
+
+.form-floating > .form-control-plaintext::placeholder, .form-floating > .form-control::placeholder {
+  color: var(--bs-secondary-color);
+  text-align: end;
+}
+
+.form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
+  text-align: start;
+}
+
+.iconos {
+    font-size: 32px;
+}
+.iconos1 {
+    font-size: 25px;
+}

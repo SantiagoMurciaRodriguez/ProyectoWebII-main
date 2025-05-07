@@ -1,0 +1,27 @@
+﻿@using Microsoft.AspNetCore.Http
+
+<div id="principal">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 d-flex align-items-center justify-content-center p-3">
+                <img src="img/Home/Imagen de WhatsApp 2025-04-07 a las 14.43.53_c7692a21.png" class="img-fluid rounded-pill" alt="Home" style="width: 25%">
+            </div>
+            <div class="col-12 text-center">
+                <h2>
+                    Descubre un nuevo estándar en comodidad, eficiencia y servicio aéreo. Gestiona tus vuelos, ciudades y tarifas de forma rápida y sencilla.
+                </h2>
+            </div>
+            <div class="col-12 text-center">
+                @if (ViewContext.HttpContext.Session.GetString("UserName") != null)
+                {
+                    <h1>¡Bienvenido, @ViewContext.HttpContext.Session.GetString("UserName")!</h1>
+                    <a href="@Url.Action("Logout", "Login")" class="btn btn-danger mt-3">Cerrar sesión</a>
+                }
+                else
+                {
+                    <h1>¡Bienvenido a nuestra plataforma!</h1>
+                }
+            </div>
+        </div>
+    </div>
+</div>
