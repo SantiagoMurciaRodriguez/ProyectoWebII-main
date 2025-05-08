@@ -72,7 +72,7 @@ namespace ProyectoAerolineaWeb.Controllers
                 {
                     Name = model.Name,
                     Email = model.Email,
-                    Password = model.Password // Nota: Considera encriptar la contraseña
+                    Password = model.Password
                 };
 
                 _context.Users.Add(newUser);

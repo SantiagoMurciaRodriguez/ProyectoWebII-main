@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProyectoAerolineaWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7795f26dbe23080718db2b3f5b8de204670df30c")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProyectoAerolineaWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProyectoAerolineaWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

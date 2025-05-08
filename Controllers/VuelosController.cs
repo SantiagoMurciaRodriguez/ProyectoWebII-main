@@ -82,7 +82,7 @@ namespace ProyectoAerolineaWeb.Controllers
             _context.SaveChanges();
 
             TempData["SuccessMessage"] = "Registro exitoso de número de pasajeros.";
-            return RedirectToAction("Index"); // Redirige a otra acción después del éxito
+            return RedirectToAction("Index","Tarifas", new {vueloId = model.VueloId});
         }
     }
 }

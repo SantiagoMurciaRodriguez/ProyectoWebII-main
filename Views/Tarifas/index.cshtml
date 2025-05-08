@@ -3,23 +3,24 @@
 <div id="tarifas" class="container-fluid">
     <h1 class="text-primary">Tarifas Disponibles</h1>
 
-    <table class="table table-bordered table-hover mt-3">
-        <thead class="table-dark">
-            <tr>
-                <th>Nombre</th>
-                <th>Precio</th>
-            </tr>
-        </thead>
-        <tbody>
-            @foreach (var tarifa in Model)
-            {
-                <tr>
-                    <td>@tarifa.Nombre</td>
-                    <td>@tarifa.Precio.ToString("C")</td>
-                </tr>
-            }
-        </tbody>
-    </table>
+    <div class="row mt-3">
+        @foreach (var tarifa in Model)
+        {
+            <div class="col-md-4 mb-4">
+                <div class="card" style="width: 18rem;">
+                    <img src="img/tarifas/default.jpg" class="card-img-top" alt="Imagen de tarifa">
+                    <div class="card-body">
+                        <h5 class="card-title">@tarifa.Nombre</h5>
+                        <p class="card-text">Precio: @tarifa.Precio.ToString("C")</p>
+                        <form asp-controller="Tarifas" asp-action="SeleccionarTarifa" method="post">
+                            <input type="hidden" name="tarifaId" value="@tarifa.Id" />
+                            <button type="submit" class="btn btn-primary">Seleccionar</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
 </div>
 
 

@@ -599,4 +599,5 @@ C:\Users\User\Documents\Universidad\Programacion\ProyectomainWebII\obj\Debug\net
 C:\Users\User\Documents\Universidad\Programacion\ProyectomainWebII\obj\Debug\net9.0\ProyectoAerolineaWeb.genruntimeconfig.cache
 C:\Users\User\Documents\Universidad\Programacion\ProyectomainWebII\obj\Debug\net9.0\ref\ProyectoAerolineaWeb.dll
 C:\Users\User\Documents\Universidad\Programacion\ProyectomainWebII\obj\Debug\net9.0\compressed\80kiye1zqq-c3plzkjnti.gz
+C:\Users\User\Documents\Universidad\Programacion\ProyectomainWebII\obj\Debug\net9.0\ProyectoAerolineaWeb.sourcelink.json
 C:\Users\User\Documents\Universidad\Programacion\ProyectomainWebII\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

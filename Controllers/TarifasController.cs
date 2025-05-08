@@ -21,5 +21,15 @@ namespace ProyectoAerolineaWeb.Controllers
             var tarifas = await _context.Tarifas.Where(t => t.VueloId == VueloId).ToListAsync();
             return View(tarifas);
         }
+
+        [HttpPost]
+        public IActionResult SeleccionarTarifa(int tarifaId)
+        {
+            // Guardar el ID de la tarifa seleccionada en TempData o pasarlo como parámetro
+            TempData["TarifaId"] = tarifaId;
+
+            // Redirigir a la vista de servicios adicionales
+            return RedirectToAction("Index", "Servicios", new { tarifaId });
+        }
     }
 }

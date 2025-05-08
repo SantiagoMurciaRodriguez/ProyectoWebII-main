@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using ProyectoAerolineaWeb.Models;
+using ProyectoAerolineaWeb.Views.Vuelos;
 
 namespace ProyectoAerolineaWeb.Data
 {
@@ -15,6 +16,7 @@ namespace ProyectoAerolineaWeb.Data
         public DbSet<Tarifa> Tarifas { get; set; }
         public DbSet<User> Users { get; set; }
         public DbSet<Pasajeros> Pasajeros { get; set; }
+        public DbSet<Servicios> Servicios { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
