@@ -58,16 +58,7 @@ namespace ProyectoAerolineaWeb.Controllers
             if (!ModelState.IsValid)
             {
                 TempData["ErrorMessage"] = "El modelo no es válido. Por favor, verifica los datos.";
-                return View(model); // Asegúrate de devolver el modelo
-            }
-
-            var pasajeros = _context.Pasajeros
-                .FirstOrDefault(p => p.Id == model.Id);
-
-            if (pasajeros != null)
-            {
-                TempData["ErrorMessage"] = $"El vuelo {pasajeros.Id} ya se encuentra en la base de datos";
-                return View(model); // Devuelve el modelo para evitar que sea null
+                return View(model);
             }
 
             var newPasajeros = new Pasajeros
@@ -81,13 +72,8 @@ namespace ProyectoAerolineaWeb.Controllers
             _context.Pasajeros.Add(newPasajeros);
             _context.SaveChanges();
 
-            TempData["SuccessMessage"] = "Registro exitoso de número de pasajeros.";
-            return RedirectToAction("Index","Tarifas", new {vueloId = model.VueloId});
+            TempData["SuccessMessage"] = "Registro exitoso de pasajeros.";
+            return RedirectToAction("Index", "Tarifas", new { VueloId = model.VueloId, PasajerosId = newPasajeros.Id });
         }
     }
 }
-
-
-
-
-

@@ -12,8 +12,8 @@ using ProyectoAerolineaWeb.Data;
 namespace ProyectoAerolineaWeb.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20250507194133_ServiciosExtra")]
-    partial class ServiciosExtra
+    [Migration("20250512212422_Migracionuno")]
+    partial class Migracionuno
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -85,6 +85,12 @@ namespace ProyectoAerolineaWeb.Migrations
                         .HasColumnType("int");
 
                     b.Property<int>("PasajerosId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("TarifaId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("VueloId")
                         .HasColumnType("int");
 
                     b.HasKey("Id");

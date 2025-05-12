@@ -84,6 +84,12 @@ namespace ProyectoAerolineaWeb.Migrations
                     b.Property<int>("PasajerosId")
                         .HasColumnType("int");
 
+                    b.Property<int>("TarifaId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("VueloId")
+                        .HasColumnType("int");
+
                     b.HasKey("Id");
 
                     b.ToTable("Servicios");

@@ -16,20 +16,20 @@ namespace ProyectoAerolineaWeb.Controllers
             _context = context;
         }
 
-        public async Task<IActionResult> Index(int VueloId)
+        public async Task<IActionResult> Index(int VueloId, int PasajerosId)
         {
+            ViewBag.VueloId = VueloId;
+            ViewBag.PasajerosId = PasajerosId;
+
             var tarifas = await _context.Tarifas.Where(t => t.VueloId == VueloId).ToListAsync();
             return View(tarifas);
         }
 
         [HttpPost]
-        public IActionResult SeleccionarTarifa(int tarifaId)
+        public IActionResult SeleccionarTarifa(int tarifaId, int vueloId, int pasajerosId)
         {
-            // Guardar el ID de la tarifa seleccionada en TempData o pasarlo como parámetro
-            TempData["TarifaId"] = tarifaId;
-
-            // Redirigir a la vista de servicios adicionales
-            return RedirectToAction("Index", "Servicios", new { tarifaId });
+            // Redirigir a la vista de servicios adicionales con todos los datos necesarios
+            return RedirectToAction("Index", "Servicios", new { tarifaId, vueloId, pasajerosId });
         }
     }
 }

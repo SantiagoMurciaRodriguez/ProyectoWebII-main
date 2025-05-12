@@ -12,8 +12,10 @@
                     <div class="card-body">
                         <h5 class="card-title">@tarifa.Nombre</h5>
                         <p class="card-text">Precio: @tarifa.Precio.ToString("C")</p>
-                        <form asp-controller="Tarifas" asp-action="SeleccionarTarifa" method="post">
+                        <form asp-action="SeleccionarTarifa" asp-controller="Tarifas" method="post">
                             <input type="hidden" name="tarifaId" value="@tarifa.Id" />
+                            <input type="hidden" name="vueloId" value="@ViewBag.VueloId" />
+                            <input type="hidden" name="pasajerosId" value="@ViewBag.PasajerosId" />
                             <button type="submit" class="btn btn-primary">Seleccionar</button>
                         </form>
                     </div>

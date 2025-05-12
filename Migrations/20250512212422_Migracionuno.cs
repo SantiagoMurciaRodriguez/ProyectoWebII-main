@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace ProyectoAerolineaWeb.Migrations
 {
     /// <inheritdoc />
-    public partial class InitialCreate : Migration
+    public partial class Migracionuno : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -38,6 +38,24 @@ namespace ProyectoAerolineaWeb.Migrations
                 constraints: table =>
                 {
                     table.PrimaryKey("PK_Pasajeros", x => x.Id);
+                });
+
+            migrationBuilder.CreateTable(
+                name: "Servicios",
+                columns: table => new
+                {
+                    Id = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    PasajerosId = table.Column<int>(type: "int", nullable: false),
+                    VueloId = table.Column<int>(type: "int", nullable: false),
+                    TarifaId = table.Column<int>(type: "int", nullable: false),
+                    Maletas = table.Column<int>(type: "int", nullable: false),
+                    Comidas = table.Column<int>(type: "int", nullable: false),
+                    Mascotas = table.Column<int>(type: "int", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_Servicios", x => x.Id);
                 });
 
             migrationBuilder.CreateTable(
@@ -126,6 +144,9 @@ namespace ProyectoAerolineaWeb.Migrations
         {
             migrationBuilder.DropTable(
                 name: "Pasajeros");
+
+            migrationBuilder.DropTable(
+                name: "Servicios");
 
             migrationBuilder.DropTable(
                 name: "Tarifas");

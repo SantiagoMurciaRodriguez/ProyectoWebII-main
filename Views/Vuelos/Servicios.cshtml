@@ -4,6 +4,8 @@
 
 <form asp-action="ServiciosPost" method="post">
     <input type="hidden" asp-for="PasajerosId" />
+    <input type="hidden" asp-for="VueloId" />
+    <input type="hidden" asp-for="TarifaId" />
     <div class="form-group">
         <label for="Maletas">Maletas</label>
         <input type="number" asp-for="Maletas" class="form-control" id="Maletas" />
