@@ -1,0 +1,29 @@
+﻿@model ProyectoAerolineaWeb.Models.ConfirmacionReserva
+@{
+    var servicio = ViewBag.Servicio as ProyectoAerolineaWeb.Models.Servicios;
+}
+<h2>Confirmar Reserva</h2>
+@if (servicio != null)
+{
+    <ul>
+        <li>VueloId: @servicio.VueloId</li>
+        <li>PasajerosId: @servicio.PasajerosId</li>
+        <li>TarifaId: @servicio.TarifaId</li>
+        <li>Maletas: @servicio.Maletas</li>
+        <li>Comidas: @servicio.Comidas</li>
+        <li>Mascotas: @servicio.Mascotas</li>
+    </ul>
+}
+<form asp-action="Confirmar" method="post">
+    <input type="hidden" asp-for="ServicioId" />
+    <div class="form-group">
+        <label asp-for="ContactoEmergencia"></label>
+        <input asp-for="ContactoEmergencia" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-success">Confirmar</button>
+</form>
+
+<form asp-action="Cancelar" method="post" class="mt-2">
+    <input type="hidden" name="servicioId" value="@servicio?.Id" />
+    <button type="submit" class="btn btn-danger">Cancelar</button>
+</form>

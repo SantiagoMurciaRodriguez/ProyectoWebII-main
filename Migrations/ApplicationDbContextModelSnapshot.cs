@@ -39,6 +39,26 @@ namespace ProyectoAerolineaWeb.Migrations
                     b.ToTable("Ciudades");
                 });
 
+            modelBuilder.Entity("ProyectoAerolineaWeb.Models.ConfirmacionReserva", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("ContactoEmergencia")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("ServicioId")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("ConfirmacionesReserva");
+                });
+
             modelBuilder.Entity("ProyectoAerolineaWeb.Models.Pasajeros", b =>
                 {
                     b.Property<int>("Id")

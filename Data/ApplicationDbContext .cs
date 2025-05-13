@@ -17,6 +17,7 @@ namespace ProyectoAerolineaWeb.Data
         public DbSet<User> Users { get; set; }
         public DbSet<Pasajeros> Pasajeros { get; set; }
         public DbSet<Servicios> Servicios { get; set; }
+        public DbSet<ConfirmacionReserva> ConfirmacionesReserva { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
