@@ -62,13 +62,7 @@ C:\Users\Usuario\Downloads\ProyectoWebII-main\wwwroot\lib\bootstrap\dist\css\boo
 C:\Users\Usuario\Downloads\ProyectoWebII-main\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
 wwwroot\css\site.css
 wwwroot\favicon.ico
-wwwroot\img\Home\atardecer.png
-wwwroot\img\Home\cielo.png
-wwwroot\img\Home\imagen 1 avion.jpg
-wwwroot\img\Home\Imagen de WhatsApp 2025-04-07 a las 14.43.53_c7692a21.png
-wwwroot\img\Home\Passenger-plane-front-view-runway-asphalt-sunrise_2560x1440.jpg
-wwwroot\img\Privacidad\aerolinea.webp
-wwwroot\img\Privacidad\atardecer2.jpg
+wwwroot\img\Home\homei.jpg
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
@@ -130,3 +124,5 @@ wwwroot\lib\jquery-validation\LICENSE.md
 wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
 wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
 wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\mp4\3593-172488287.mp4
+wwwroot\mp4\vuelos.mp4

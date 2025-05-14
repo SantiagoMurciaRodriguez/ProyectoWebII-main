@@ -985,7 +985,6 @@ C:\Users\Usuario\Downloads\ProyectoWebII-main\obj\Debug\net9.0\ProyectoAerolinea
 C:\Users\Usuario\Downloads\ProyectoWebII-main\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\Usuario\Downloads\ProyectoWebII-main\obj\Debug\net9.0\scopedcss\bundle\ProyectoAerolineaWeb.styles.css
 C:\Users\Usuario\Downloads\ProyectoWebII-main\obj\Debug\net9.0\scopedcss\projectbundle\ProyectoAerolineaWeb.bundle.scp.css
-C:\Users\Usuario\Downloads\ProyectoWebII-main\obj\Debug\net9.0\compressed\80kiye1zqq-c3plzkjnti.gz
 C:\Users\Usuario\Downloads\ProyectoWebII-main\obj\Debug\net9.0\compressed\bzxs7mh4pb-61n19gt1b8.gz
 C:\Users\Usuario\Downloads\ProyectoWebII-main\obj\Debug\net9.0\compressed\cz5z2wwwrp-xtxxf3hu2r.gz
 C:\Users\Usuario\Downloads\ProyectoWebII-main\obj\Debug\net9.0\compressed\qc8kyon6jz-t1cqhe9u97.gz
@@ -1065,3 +1064,6 @@ C:\Users\Usuario\Downloads\ProyectoWebII-main\obj\Debug\net9.0\ProyectoAerolinea
 C:\Users\Usuario\Downloads\ProyectoWebII-main\obj\Debug\net9.0\ProyectoAerolineaWeb.genruntimeconfig.cache
 C:\Users\Usuario\Downloads\ProyectoWebII-main\obj\Debug\net9.0\ref\ProyectoAerolineaWeb.dll
 C:\Users\Usuario\Downloads\ProyectoWebII-main\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Usuario\Downloads\ProyectoWebII-main\bin\Debug\net9.0\wwwroot\mp4\3593-172488287.mp4
+C:\Users\Usuario\Downloads\ProyectoWebII-main\bin\Debug\net9.0\wwwroot\mp4\vuelos.mp4
+C:\Users\Usuario\Downloads\ProyectoWebII-main\obj\Debug\net9.0\compressed\80kiye1zqq-t7jpti89j0.gz

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "CYS3x2Rh0FVX3eity4JlwqVnApo9OB6s9G+J4KypriY=",
+  "Hash": "jmeBOCxoPT4r2iWMg8qjRr3mj1ACGi7Gdyrq1e2L3FQ=",
   "Source": "ProyectoAerolineaWeb",
   "BasePath": "_content/ProyectoAerolineaWeb",
   "Mode": "Default",
@@ -311,12 +311,12 @@
       "OriginalItemSpec": "C:\\Users\\Usuario\\Downloads\\ProyectoWebII-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Downloads\\ProyectoWebII-main\\obj\\Debug\\net9.0\\compressed\\80kiye1zqq-c3plzkjnti.gz",
+      "Identity": "C:\\Users\\Usuario\\Downloads\\ProyectoWebII-main\\obj\\Debug\\net9.0\\compressed\\80kiye1zqq-t7jpti89j0.gz",
       "SourceId": "ProyectoAerolineaWeb",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Usuario\\Downloads\\ProyectoWebII-main\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ProyectoAerolineaWeb",
-      "RelativePath": "css/site#[.{fingerprint=c3plzkjnti}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=t7jpti89j0}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -325,8 +325,8 @@
       "RelatedAsset": "C:\\Users\\Usuario\\Downloads\\ProyectoWebII-main\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "u8oz4sx2b2",
-      "Integrity": "fml6rensEJkY7KzfNF9HURQkL3LY3awyD2/5oMxkr7E=",
+      "Fingerprint": "olmvnvoobw",
+      "Integrity": "1Kgni4A6tbT/6a04cJnMGyb1a78yDCrChhvU/MQ12mI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Usuario\\Downloads\\ProyectoWebII-main\\wwwroot\\css\\site.css"
@@ -1417,8 +1417,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "c3plzkjnti",
-      "Integrity": "uMpP/XxxCqHty9NOaiU25+WQbWDDdVlCg2ie2MHKJQk=",
+      "Fingerprint": "t7jpti89j0",
+      "Integrity": "ibLkWbj7bRIU4nhiPg5FcZ9hXdIKZsi01mYUZZ7LYpw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -1445,12 +1445,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Downloads\\ProyectoWebII-main\\wwwroot\\img\\Home\\atardecer.png",
+      "Identity": "C:\\Users\\Usuario\\Downloads\\ProyectoWebII-main\\wwwroot\\img\\Home\\homei.jpg",
       "SourceId": "ProyectoAerolineaWeb",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Usuario\\Downloads\\ProyectoWebII-main\\wwwroot\\",
       "BasePath": "_content/ProyectoAerolineaWeb",
-      "RelativePath": "img/Home/atardecer#[.{fingerprint}]?.png",
+      "RelativePath": "img/Home/homei#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1459,137 +1459,11 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "bi92oimnd8",
-      "Integrity": "XaPXbhFD3YiiGU06WnZfKbpXGp0DgGmPNVpnS3FpUG4=",
+      "Fingerprint": "5tnqd79hhx",
+      "Integrity": "94smTCHvuMalnTiFIuBsCFIEmaLrC9AWuds+JDMCacE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\Home\\atardecer.png"
-    },
-    {
-      "Identity": "C:\\Users\\Usuario\\Downloads\\ProyectoWebII-main\\wwwroot\\img\\Home\\cielo.png",
-      "SourceId": "ProyectoAerolineaWeb",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\ProyectoWebII-main\\wwwroot\\",
-      "BasePath": "_content/ProyectoAerolineaWeb",
-      "RelativePath": "img/Home/cielo#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "9g4wycor2n",
-      "Integrity": "d8+J4Qr2NCS1NWkKh6J1Tlm8ebwx1Y5w0c7G0N3pKmk=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\Home\\cielo.png"
-    },
-    {
-      "Identity": "C:\\Users\\Usuario\\Downloads\\ProyectoWebII-main\\wwwroot\\img\\Home\\imagen 1 avion.jpg",
-      "SourceId": "ProyectoAerolineaWeb",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\ProyectoWebII-main\\wwwroot\\",
-      "BasePath": "_content/ProyectoAerolineaWeb",
-      "RelativePath": "img/Home/imagen 1 avion#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "xdoet57gvt",
-      "Integrity": "C6zoj3NmIkrkWKPmeFovq1fVF2v0FPyZW3ZzkZoR2vg=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\Home\\imagen 1 avion.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\Usuario\\Downloads\\ProyectoWebII-main\\wwwroot\\img\\Home\\Imagen de WhatsApp 2025-04-07 a las 14.43.53_c7692a21.png",
-      "SourceId": "ProyectoAerolineaWeb",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\ProyectoWebII-main\\wwwroot\\",
-      "BasePath": "_content/ProyectoAerolineaWeb",
-      "RelativePath": "img/Home/Imagen de WhatsApp 2025-04-07 a las 14.43.53_c7692a21#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "g9wwmdbvkv",
-      "Integrity": "rPoKdo0qj4bxYmGgb2pPQLrS5H2ivlQ6i9weVF5FAr0=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\Home\\Imagen de WhatsApp 2025-04-07 a las 14.43.53_c7692a21.png"
-    },
-    {
-      "Identity": "C:\\Users\\Usuario\\Downloads\\ProyectoWebII-main\\wwwroot\\img\\Home\\Passenger-plane-front-view-runway-asphalt-sunrise_2560x1440.jpg",
-      "SourceId": "ProyectoAerolineaWeb",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\ProyectoWebII-main\\wwwroot\\",
-      "BasePath": "_content/ProyectoAerolineaWeb",
-      "RelativePath": "img/Home/Passenger-plane-front-view-runway-asphalt-sunrise_2560x1440#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "ro0jfwavyx",
-      "Integrity": "O9mo0vbpk7570oB/2UK7X0bUotBg9P6B2ecJMOW3kSs=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\Home\\Passenger-plane-front-view-runway-asphalt-sunrise_2560x1440.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\Usuario\\Downloads\\ProyectoWebII-main\\wwwroot\\img\\Privacidad\\aerolinea.webp",
-      "SourceId": "ProyectoAerolineaWeb",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\ProyectoWebII-main\\wwwroot\\",
-      "BasePath": "_content/ProyectoAerolineaWeb",
-      "RelativePath": "img/Privacidad/aerolinea#[.{fingerprint}]?.webp",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "cbwdg6idwx",
-      "Integrity": "2CwwOxP70zxDBYd6pWFZcJBlt+K+Gs1wsS4E9L0RE3Q=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\Privacidad\\aerolinea.webp"
-    },
-    {
-      "Identity": "C:\\Users\\Usuario\\Downloads\\ProyectoWebII-main\\wwwroot\\img\\Privacidad\\atardecer2.jpg",
-      "SourceId": "ProyectoAerolineaWeb",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\ProyectoWebII-main\\wwwroot\\",
-      "BasePath": "_content/ProyectoAerolineaWeb",
-      "RelativePath": "img/Privacidad/atardecer2#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "ffnfv5o0cb",
-      "Integrity": "W1cMYdOlsiN4YcOx9nllyxvEqvYJPqF6A53/ysSVg0g=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\Privacidad\\atardecer2.jpg"
+      "OriginalItemSpec": "wwwroot\\img\\Home\\homei.jpg"
     },
     {
       "Identity": "C:\\Users\\Usuario\\Downloads\\ProyectoWebII-main\\wwwroot\\js\\site.js",
@@ -2871,17 +2745,59 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\Usuario\\Downloads\\ProyectoWebII-main\\wwwroot\\mp4\\3593-172488287.mp4",
+      "SourceId": "ProyectoAerolineaWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\ProyectoWebII-main\\wwwroot\\",
+      "BasePath": "_content/ProyectoAerolineaWeb",
+      "RelativePath": "mp4/3593-172488287#[.{fingerprint}]?.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qyrv60tr39",
+      "Integrity": "UvUs457XtHwgPshC/7oLnbofit5iJlAYLTTFKUQ8K2k=",
+      "CopyToOutputDirectory": "Always",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\mp4\\3593-172488287.mp4"
+    },
+    {
+      "Identity": "C:\\Users\\Usuario\\Downloads\\ProyectoWebII-main\\wwwroot\\mp4\\vuelos.mp4",
+      "SourceId": "ProyectoAerolineaWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\ProyectoWebII-main\\wwwroot\\",
+      "BasePath": "_content/ProyectoAerolineaWeb",
+      "RelativePath": "mp4/vuelos#[.{fingerprint}]?.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hb9ih0x5u9",
+      "Integrity": "U/8EXpVfu6LOAL16eBNfuKNDN/Vi4xMKYpH1RkBO/cI=",
+      "CopyToOutputDirectory": "Always",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\mp4\\vuelos.mp4"
     }
   ],
   "Endpoints": [
     {
-      "Route": "css/site.c3plzkjnti.css",
-      "AssetFile": "C:\\Users\\Usuario\\Downloads\\ProyectoWebII-main\\obj\\Debug\\net9.0\\compressed\\80kiye1zqq-c3plzkjnti.gz",
+      "Route": "css/site.css",
+      "AssetFile": "C:\\Users\\Usuario\\Downloads\\ProyectoWebII-main\\obj\\Debug\\net9.0\\compressed\\80kiye1zqq-t7jpti89j0.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001204819277"
+          "Quality": "0.001663893511"
         }
       ],
       "ResponseHeaders": [
@@ -2891,19 +2807,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "829"
+          "Value": "600"
         },
         {
           "Name": "ETag",
-          "Value": "\"fml6rensEJkY7KzfNF9HURQkL3LY3awyD2/5oMxkr7E=\""
+          "Value": "\"1Kgni4A6tbT/6a04cJnMGyb1a78yDCrChhvU/MQ12mI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 14 May 2025 13:01:23 GMT"
+          "Value": "Wed, 14 May 2025 16:58:31 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -2919,26 +2835,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"uMpP/XxxCqHty9NOaiU25+WQbWDDdVlCg2ie2MHKJQk=\""
+          "Value": "W/\"ibLkWbj7bRIU4nhiPg5FcZ9hXdIKZsi01mYUZZ7LYpw=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "c3plzkjnti"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-uMpP/XxxCqHty9NOaiU25+WQbWDDdVlCg2ie2MHKJQk="
+          "Value": "sha256-ibLkWbj7bRIU4nhiPg5FcZ9hXdIKZsi01mYUZZ7LYpw="
         }
       ]
     },
     {
-      "Route": "css/site.c3plzkjnti.css",
+      "Route": "css/site.css",
       "AssetFile": "C:\\Users\\Usuario\\Downloads\\ProyectoWebII-main\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2948,7 +2856,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2502"
+          "Value": "1939"
         },
         {
           "Name": "Content-Type",
@@ -2956,11 +2864,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"uMpP/XxxCqHty9NOaiU25+WQbWDDdVlCg2ie2MHKJQk=\""
+          "Value": "\"ibLkWbj7bRIU4nhiPg5FcZ9hXdIKZsi01mYUZZ7LYpw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 14 May 2025 13:01:23 GMT"
+          "Value": "Wed, 14 May 2025 16:58:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ibLkWbj7bRIU4nhiPg5FcZ9hXdIKZsi01mYUZZ7LYpw="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css.gz",
+      "AssetFile": "C:\\Users\\Usuario\\Downloads\\ProyectoWebII-main\\obj\\Debug\\net9.0\\compressed\\80kiye1zqq-t7jpti89j0.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "600"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1Kgni4A6tbT/6a04cJnMGyb1a78yDCrChhvU/MQ12mI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 16:58:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1Kgni4A6tbT/6a04cJnMGyb1a78yDCrChhvU/MQ12mI="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.t7jpti89j0.css",
+      "AssetFile": "C:\\Users\\Usuario\\Downloads\\ProyectoWebII-main\\obj\\Debug\\net9.0\\compressed\\80kiye1zqq-t7jpti89j0.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001663893511"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "600"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1Kgni4A6tbT/6a04cJnMGyb1a78yDCrChhvU/MQ12mI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 16:58:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ibLkWbj7bRIU4nhiPg5FcZ9hXdIKZsi01mYUZZ7LYpw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t7jpti89j0"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ibLkWbj7bRIU4nhiPg5FcZ9hXdIKZsi01mYUZZ7LYpw="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.t7jpti89j0.css",
+      "AssetFile": "C:\\Users\\Usuario\\Downloads\\ProyectoWebII-main\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1939"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ibLkWbj7bRIU4nhiPg5FcZ9hXdIKZsi01mYUZZ7LYpw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 16:58:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2970,7 +3023,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "c3plzkjnti"
+          "Value": "t7jpti89j0"
         },
         {
           "Name": "label",
@@ -2978,13 +3031,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-uMpP/XxxCqHty9NOaiU25+WQbWDDdVlCg2ie2MHKJQk="
+          "Value": "sha256-ibLkWbj7bRIU4nhiPg5FcZ9hXdIKZsi01mYUZZ7LYpw="
         }
       ]
     },
     {
-      "Route": "css/site.c3plzkjnti.css.gz",
-      "AssetFile": "C:\\Users\\Usuario\\Downloads\\ProyectoWebII-main\\obj\\Debug\\net9.0\\compressed\\80kiye1zqq-c3plzkjnti.gz",
+      "Route": "css/site.t7jpti89j0.css.gz",
+      "AssetFile": "C:\\Users\\Usuario\\Downloads\\ProyectoWebII-main\\obj\\Debug\\net9.0\\compressed\\80kiye1zqq-t7jpti89j0.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2993,7 +3046,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "829"
+          "Value": "600"
         },
         {
           "Name": "Content-Type",
@@ -3001,11 +3054,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"fml6rensEJkY7KzfNF9HURQkL3LY3awyD2/5oMxkr7E=\""
+          "Value": "\"1Kgni4A6tbT/6a04cJnMGyb1a78yDCrChhvU/MQ12mI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 14 May 2025 13:01:23 GMT"
+          "Value": "Wed, 14 May 2025 16:58:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3023,7 +3076,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "c3plzkjnti"
+          "Value": "t7jpti89j0"
         },
         {
           "Name": "label",
@@ -3031,144 +3084,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-fml6rensEJkY7KzfNF9HURQkL3LY3awyD2/5oMxkr7E="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\Usuario\\Downloads\\ProyectoWebII-main\\obj\\Debug\\net9.0\\compressed\\80kiye1zqq-c3plzkjnti.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001204819277"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "829"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"fml6rensEJkY7KzfNF9HURQkL3LY3awyD2/5oMxkr7E=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 14 May 2025 13:01:23 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"uMpP/XxxCqHty9NOaiU25+WQbWDDdVlCg2ie2MHKJQk=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-uMpP/XxxCqHty9NOaiU25+WQbWDDdVlCg2ie2MHKJQk="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\Usuario\\Downloads\\ProyectoWebII-main\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2502"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"uMpP/XxxCqHty9NOaiU25+WQbWDDdVlCg2ie2MHKJQk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 14 May 2025 13:01:23 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-uMpP/XxxCqHty9NOaiU25+WQbWDDdVlCg2ie2MHKJQk="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css.gz",
-      "AssetFile": "C:\\Users\\Usuario\\Downloads\\ProyectoWebII-main\\obj\\Debug\\net9.0\\compressed\\80kiye1zqq-c3plzkjnti.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "829"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"fml6rensEJkY7KzfNF9HURQkL3LY3awyD2/5oMxkr7E=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 14 May 2025 13:01:23 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-fml6rensEJkY7KzfNF9HURQkL3LY3awyD2/5oMxkr7E="
+          "Value": "sha256-1Kgni4A6tbT/6a04cJnMGyb1a78yDCrChhvU/MQ12mI="
         }
       ]
     },
@@ -3471,8 +3387,8 @@
       ]
     },
     {
-      "Route": "img/Home/atardecer.bi92oimnd8.png",
-      "AssetFile": "C:\\Users\\Usuario\\Downloads\\ProyectoWebII-main\\wwwroot\\img\\Home\\atardecer.png",
+      "Route": "img/Home/homei.5tnqd79hhx.jpg",
+      "AssetFile": "C:\\Users\\Usuario\\Downloads\\ProyectoWebII-main\\wwwroot\\img\\Home\\homei.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3481,171 +3397,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1753087"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"XaPXbhFD3YiiGU06WnZfKbpXGp0DgGmPNVpnS3FpUG4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 14 May 2025 13:01:23 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "bi92oimnd8"
-        },
-        {
-          "Name": "label",
-          "Value": "img/Home/atardecer.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-XaPXbhFD3YiiGU06WnZfKbpXGp0DgGmPNVpnS3FpUG4="
-        }
-      ]
-    },
-    {
-      "Route": "img/Home/atardecer.png",
-      "AssetFile": "C:\\Users\\Usuario\\Downloads\\ProyectoWebII-main\\wwwroot\\img\\Home\\atardecer.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1753087"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"XaPXbhFD3YiiGU06WnZfKbpXGp0DgGmPNVpnS3FpUG4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 14 May 2025 13:01:23 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-XaPXbhFD3YiiGU06WnZfKbpXGp0DgGmPNVpnS3FpUG4="
-        }
-      ]
-    },
-    {
-      "Route": "img/Home/cielo.9g4wycor2n.png",
-      "AssetFile": "C:\\Users\\Usuario\\Downloads\\ProyectoWebII-main\\wwwroot\\img\\Home\\cielo.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1819276"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"d8+J4Qr2NCS1NWkKh6J1Tlm8ebwx1Y5w0c7G0N3pKmk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 14 May 2025 13:01:23 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "9g4wycor2n"
-        },
-        {
-          "Name": "label",
-          "Value": "img/Home/cielo.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-d8+J4Qr2NCS1NWkKh6J1Tlm8ebwx1Y5w0c7G0N3pKmk="
-        }
-      ]
-    },
-    {
-      "Route": "img/Home/cielo.png",
-      "AssetFile": "C:\\Users\\Usuario\\Downloads\\ProyectoWebII-main\\wwwroot\\img\\Home\\cielo.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1819276"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"d8+J4Qr2NCS1NWkKh6J1Tlm8ebwx1Y5w0c7G0N3pKmk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 14 May 2025 13:01:23 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-d8+J4Qr2NCS1NWkKh6J1Tlm8ebwx1Y5w0c7G0N3pKmk="
-        }
-      ]
-    },
-    {
-      "Route": "img/Home/imagen 1 avion.jpg",
-      "AssetFile": "C:\\Users\\Usuario\\Downloads\\ProyectoWebII-main\\wwwroot\\img\\Home\\imagen 1 avion.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "175506"
+          "Value": "61232"
         },
         {
           "Name": "Content-Type",
@@ -3653,48 +3405,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"C6zoj3NmIkrkWKPmeFovq1fVF2v0FPyZW3ZzkZoR2vg=\""
+          "Value": "\"94smTCHvuMalnTiFIuBsCFIEmaLrC9AWuds+JDMCacE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 14 May 2025 13:01:23 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-C6zoj3NmIkrkWKPmeFovq1fVF2v0FPyZW3ZzkZoR2vg="
-        }
-      ]
-    },
-    {
-      "Route": "img/Home/imagen 1 avion.xdoet57gvt.jpg",
-      "AssetFile": "C:\\Users\\Usuario\\Downloads\\ProyectoWebII-main\\wwwroot\\img\\Home\\imagen 1 avion.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "175506"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"C6zoj3NmIkrkWKPmeFovq1fVF2v0FPyZW3ZzkZoR2vg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 14 May 2025 13:01:23 GMT"
+          "Value": "Wed, 14 May 2025 15:57:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3704,21 +3419,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xdoet57gvt"
+          "Value": "5tnqd79hhx"
         },
         {
           "Name": "label",
-          "Value": "img/Home/imagen 1 avion.jpg"
+          "Value": "img/Home/homei.jpg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-C6zoj3NmIkrkWKPmeFovq1fVF2v0FPyZW3ZzkZoR2vg="
+          "Value": "sha256-94smTCHvuMalnTiFIuBsCFIEmaLrC9AWuds+JDMCacE="
         }
       ]
     },
     {
-      "Route": "img/Home/Imagen de WhatsApp 2025-04-07 a las 14.43.53_c7692a21.g9wwmdbvkv.png",
-      "AssetFile": "C:\\Users\\Usuario\\Downloads\\ProyectoWebII-main\\wwwroot\\img\\Home\\Imagen de WhatsApp 2025-04-07 a las 14.43.53_c7692a21.png",
+      "Route": "img/Home/homei.jpg",
+      "AssetFile": "C:\\Users\\Usuario\\Downloads\\ProyectoWebII-main\\wwwroot\\img\\Home\\homei.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3727,64 +3442,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "22560"
+          "Value": "61232"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/png"
+          "Value": "image/jpeg"
         },
         {
           "Name": "ETag",
-          "Value": "\"rPoKdo0qj4bxYmGgb2pPQLrS5H2ivlQ6i9weVF5FAr0=\""
+          "Value": "\"94smTCHvuMalnTiFIuBsCFIEmaLrC9AWuds+JDMCacE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 14 May 2025 13:01:23 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "g9wwmdbvkv"
-        },
-        {
-          "Name": "label",
-          "Value": "img/Home/Imagen de WhatsApp 2025-04-07 a las 14.43.53_c7692a21.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-rPoKdo0qj4bxYmGgb2pPQLrS5H2ivlQ6i9weVF5FAr0="
-        }
-      ]
-    },
-    {
-      "Route": "img/Home/Imagen de WhatsApp 2025-04-07 a las 14.43.53_c7692a21.png",
-      "AssetFile": "C:\\Users\\Usuario\\Downloads\\ProyectoWebII-main\\wwwroot\\img\\Home\\Imagen de WhatsApp 2025-04-07 a las 14.43.53_c7692a21.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "22560"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"rPoKdo0qj4bxYmGgb2pPQLrS5H2ivlQ6i9weVF5FAr0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 14 May 2025 13:01:23 GMT"
+          "Value": "Wed, 14 May 2025 15:57:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3794,253 +3464,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-rPoKdo0qj4bxYmGgb2pPQLrS5H2ivlQ6i9weVF5FAr0="
-        }
-      ]
-    },
-    {
-      "Route": "img/Home/Passenger-plane-front-view-runway-asphalt-sunrise_2560x1440.jpg",
-      "AssetFile": "C:\\Users\\Usuario\\Downloads\\ProyectoWebII-main\\wwwroot\\img\\Home\\Passenger-plane-front-view-runway-asphalt-sunrise_2560x1440.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1005908"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"O9mo0vbpk7570oB/2UK7X0bUotBg9P6B2ecJMOW3kSs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 14 May 2025 13:01:23 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-O9mo0vbpk7570oB/2UK7X0bUotBg9P6B2ecJMOW3kSs="
-        }
-      ]
-    },
-    {
-      "Route": "img/Home/Passenger-plane-front-view-runway-asphalt-sunrise_2560x1440.ro0jfwavyx.jpg",
-      "AssetFile": "C:\\Users\\Usuario\\Downloads\\ProyectoWebII-main\\wwwroot\\img\\Home\\Passenger-plane-front-view-runway-asphalt-sunrise_2560x1440.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1005908"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"O9mo0vbpk7570oB/2UK7X0bUotBg9P6B2ecJMOW3kSs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 14 May 2025 13:01:23 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ro0jfwavyx"
-        },
-        {
-          "Name": "label",
-          "Value": "img/Home/Passenger-plane-front-view-runway-asphalt-sunrise_2560x1440.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-O9mo0vbpk7570oB/2UK7X0bUotBg9P6B2ecJMOW3kSs="
-        }
-      ]
-    },
-    {
-      "Route": "img/Privacidad/aerolinea.cbwdg6idwx.webp",
-      "AssetFile": "C:\\Users\\Usuario\\Downloads\\ProyectoWebII-main\\wwwroot\\img\\Privacidad\\aerolinea.webp",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "16936"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/webp"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"2CwwOxP70zxDBYd6pWFZcJBlt+K+Gs1wsS4E9L0RE3Q=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 14 May 2025 13:01:23 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "cbwdg6idwx"
-        },
-        {
-          "Name": "label",
-          "Value": "img/Privacidad/aerolinea.webp"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-2CwwOxP70zxDBYd6pWFZcJBlt+K+Gs1wsS4E9L0RE3Q="
-        }
-      ]
-    },
-    {
-      "Route": "img/Privacidad/aerolinea.webp",
-      "AssetFile": "C:\\Users\\Usuario\\Downloads\\ProyectoWebII-main\\wwwroot\\img\\Privacidad\\aerolinea.webp",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "16936"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/webp"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"2CwwOxP70zxDBYd6pWFZcJBlt+K+Gs1wsS4E9L0RE3Q=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 14 May 2025 13:01:23 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-2CwwOxP70zxDBYd6pWFZcJBlt+K+Gs1wsS4E9L0RE3Q="
-        }
-      ]
-    },
-    {
-      "Route": "img/Privacidad/atardecer2.ffnfv5o0cb.jpg",
-      "AssetFile": "C:\\Users\\Usuario\\Downloads\\ProyectoWebII-main\\wwwroot\\img\\Privacidad\\atardecer2.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "97850"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"W1cMYdOlsiN4YcOx9nllyxvEqvYJPqF6A53/ysSVg0g=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 14 May 2025 13:01:23 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ffnfv5o0cb"
-        },
-        {
-          "Name": "label",
-          "Value": "img/Privacidad/atardecer2.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-W1cMYdOlsiN4YcOx9nllyxvEqvYJPqF6A53/ysSVg0g="
-        }
-      ]
-    },
-    {
-      "Route": "img/Privacidad/atardecer2.jpg",
-      "AssetFile": "C:\\Users\\Usuario\\Downloads\\ProyectoWebII-main\\wwwroot\\img\\Privacidad\\atardecer2.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "97850"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"W1cMYdOlsiN4YcOx9nllyxvEqvYJPqF6A53/ysSVg0g=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 14 May 2025 13:01:23 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-W1cMYdOlsiN4YcOx9nllyxvEqvYJPqF6A53/ysSVg0g="
+          "Value": "sha256-94smTCHvuMalnTiFIuBsCFIEmaLrC9AWuds+JDMCacE="
         }
       ]
     },
@@ -22003,6 +21427,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-WpL0kbwDHONKwUu+fAC6nKQXtZOBY20Gsspcn336Iz4="
+        }
+      ]
+    },
+    {
+      "Route": "mp4/3593-172488287.mp4",
+      "AssetFile": "C:\\Users\\Usuario\\Downloads\\ProyectoWebII-main\\wwwroot\\mp4\\3593-172488287.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11749420"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UvUs457XtHwgPshC/7oLnbofit5iJlAYLTTFKUQ8K2k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 16:11:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UvUs457XtHwgPshC/7oLnbofit5iJlAYLTTFKUQ8K2k="
+        }
+      ]
+    },
+    {
+      "Route": "mp4/3593-172488287.qyrv60tr39.mp4",
+      "AssetFile": "C:\\Users\\Usuario\\Downloads\\ProyectoWebII-main\\wwwroot\\mp4\\3593-172488287.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11749420"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UvUs457XtHwgPshC/7oLnbofit5iJlAYLTTFKUQ8K2k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 16:11:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qyrv60tr39"
+        },
+        {
+          "Name": "label",
+          "Value": "mp4/3593-172488287.mp4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UvUs457XtHwgPshC/7oLnbofit5iJlAYLTTFKUQ8K2k="
+        }
+      ]
+    },
+    {
+      "Route": "mp4/vuelos.hb9ih0x5u9.mp4",
+      "AssetFile": "C:\\Users\\Usuario\\Downloads\\ProyectoWebII-main\\wwwroot\\mp4\\vuelos.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39069478"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U/8EXpVfu6LOAL16eBNfuKNDN/Vi4xMKYpH1RkBO/cI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 16:54:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hb9ih0x5u9"
+        },
+        {
+          "Name": "label",
+          "Value": "mp4/vuelos.mp4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-U/8EXpVfu6LOAL16eBNfuKNDN/Vi4xMKYpH1RkBO/cI="
+        }
+      ]
+    },
+    {
+      "Route": "mp4/vuelos.mp4",
+      "AssetFile": "C:\\Users\\Usuario\\Downloads\\ProyectoWebII-main\\wwwroot\\mp4\\vuelos.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39069478"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U/8EXpVfu6LOAL16eBNfuKNDN/Vi4xMKYpH1RkBO/cI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 16:54:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-U/8EXpVfu6LOAL16eBNfuKNDN/Vi4xMKYpH1RkBO/cI="
         }
       ]
     },

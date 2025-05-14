@@ -1,16 +1,16 @@
 ﻿<Project>
   <ItemGroup>
-    <StaticWebAssetEndpoint Include="_content/ProyectoAerolineaWeb/css/site.c3plzkjnti.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"c3plzkjnti"},{"Name":"integrity","Value":"sha256-uMpP/XxxCqHty9NOaiU25\u002BWQbWDDdVlCg2ie2MHKJQk="},{"Name":"label","Value":"_content/ProyectoAerolineaWeb/css/site.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2502"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022uMpP/XxxCqHty9NOaiU25\u002BWQbWDDdVlCg2ie2MHKJQk=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 May 2025 13:01:23 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/ProyectoAerolineaWeb/css/site.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-uMpP/XxxCqHty9NOaiU25\u002BWQbWDDdVlCg2ie2MHKJQk="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2502"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022uMpP/XxxCqHty9NOaiU25\u002BWQbWDDdVlCg2ie2MHKJQk=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 May 2025 13:01:23 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ibLkWbj7bRIU4nhiPg5FcZ9hXdIKZsi01mYUZZ7LYpw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1939"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022ibLkWbj7bRIU4nhiPg5FcZ9hXdIKZsi01mYUZZ7LYpw=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 May 2025 16:58:31 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ProyectoAerolineaWeb/css/site.t7jpti89j0.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"t7jpti89j0"},{"Name":"integrity","Value":"sha256-ibLkWbj7bRIU4nhiPg5FcZ9hXdIKZsi01mYUZZ7LYpw="},{"Name":"label","Value":"_content/ProyectoAerolineaWeb/css/site.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1939"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022ibLkWbj7bRIU4nhiPg5FcZ9hXdIKZsi01mYUZZ7LYpw=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 May 2025 16:58:31 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/ProyectoAerolineaWeb/favicon.61n19gt1b8.ico">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</AssetFile>
@@ -24,89 +24,17 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Jtxf9L\u002B5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"5430"},{"Name":"Content-Type","Value":"image/x-icon"},{"Name":"ETag","Value":"\u0022Jtxf9L\u002B5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 May 2025 13:01:23 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/ProyectoAerolineaWeb/img/Home/atardecer.bi92oimnd8.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Home\atardecer.png'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/ProyectoAerolineaWeb/img/Home/homei.5tnqd79hhx.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Home\homei.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"bi92oimnd8"},{"Name":"integrity","Value":"sha256-XaPXbhFD3YiiGU06WnZfKbpXGp0DgGmPNVpnS3FpUG4="},{"Name":"label","Value":"_content/ProyectoAerolineaWeb/img/Home/atardecer.png"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1753087"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022XaPXbhFD3YiiGU06WnZfKbpXGp0DgGmPNVpnS3FpUG4=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 May 2025 13:01:23 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5tnqd79hhx"},{"Name":"integrity","Value":"sha256-94smTCHvuMalnTiFIuBsCFIEmaLrC9AWuds\u002BJDMCacE="},{"Name":"label","Value":"_content/ProyectoAerolineaWeb/img/Home/homei.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"61232"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u002294smTCHvuMalnTiFIuBsCFIEmaLrC9AWuds\u002BJDMCacE=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 May 2025 15:57:50 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/ProyectoAerolineaWeb/img/Home/atardecer.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Home\atardecer.png'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/ProyectoAerolineaWeb/img/Home/homei.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Home\homei.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-XaPXbhFD3YiiGU06WnZfKbpXGp0DgGmPNVpnS3FpUG4="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"1753087"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022XaPXbhFD3YiiGU06WnZfKbpXGp0DgGmPNVpnS3FpUG4=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 May 2025 13:01:23 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/ProyectoAerolineaWeb/img/Home/cielo.9g4wycor2n.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Home\cielo.png'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"9g4wycor2n"},{"Name":"integrity","Value":"sha256-d8\u002BJ4Qr2NCS1NWkKh6J1Tlm8ebwx1Y5w0c7G0N3pKmk="},{"Name":"label","Value":"_content/ProyectoAerolineaWeb/img/Home/cielo.png"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1819276"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022d8\u002BJ4Qr2NCS1NWkKh6J1Tlm8ebwx1Y5w0c7G0N3pKmk=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 May 2025 13:01:23 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/ProyectoAerolineaWeb/img/Home/cielo.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Home\cielo.png'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-d8\u002BJ4Qr2NCS1NWkKh6J1Tlm8ebwx1Y5w0c7G0N3pKmk="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"1819276"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022d8\u002BJ4Qr2NCS1NWkKh6J1Tlm8ebwx1Y5w0c7G0N3pKmk=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 May 2025 13:01:23 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/ProyectoAerolineaWeb/img/Home/imagen 1 avion.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Home\imagen 1 avion.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-C6zoj3NmIkrkWKPmeFovq1fVF2v0FPyZW3ZzkZoR2vg="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"175506"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022C6zoj3NmIkrkWKPmeFovq1fVF2v0FPyZW3ZzkZoR2vg=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 May 2025 13:01:23 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/ProyectoAerolineaWeb/img/Home/imagen 1 avion.xdoet57gvt.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Home\imagen 1 avion.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xdoet57gvt"},{"Name":"integrity","Value":"sha256-C6zoj3NmIkrkWKPmeFovq1fVF2v0FPyZW3ZzkZoR2vg="},{"Name":"label","Value":"_content/ProyectoAerolineaWeb/img/Home/imagen 1 avion.jpg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"175506"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022C6zoj3NmIkrkWKPmeFovq1fVF2v0FPyZW3ZzkZoR2vg=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 May 2025 13:01:23 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/ProyectoAerolineaWeb/img/Home/Imagen de WhatsApp 2025-04-07 a las 14.43.53_c7692a21.g9wwmdbvkv.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Home\Imagen de WhatsApp 2025-04-07 a las 14.43.53_c7692a21.png'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"g9wwmdbvkv"},{"Name":"integrity","Value":"sha256-rPoKdo0qj4bxYmGgb2pPQLrS5H2ivlQ6i9weVF5FAr0="},{"Name":"label","Value":"_content/ProyectoAerolineaWeb/img/Home/Imagen de WhatsApp 2025-04-07 a las 14.43.53_c7692a21.png"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"22560"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022rPoKdo0qj4bxYmGgb2pPQLrS5H2ivlQ6i9weVF5FAr0=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 May 2025 13:01:23 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/ProyectoAerolineaWeb/img/Home/Imagen de WhatsApp 2025-04-07 a las 14.43.53_c7692a21.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Home\Imagen de WhatsApp 2025-04-07 a las 14.43.53_c7692a21.png'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-rPoKdo0qj4bxYmGgb2pPQLrS5H2ivlQ6i9weVF5FAr0="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"22560"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022rPoKdo0qj4bxYmGgb2pPQLrS5H2ivlQ6i9weVF5FAr0=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 May 2025 13:01:23 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/ProyectoAerolineaWeb/img/Home/Passenger-plane-front-view-runway-asphalt-sunrise_2560x1440.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Home\Passenger-plane-front-view-runway-asphalt-sunrise_2560x1440.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-O9mo0vbpk7570oB/2UK7X0bUotBg9P6B2ecJMOW3kSs="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"1005908"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022O9mo0vbpk7570oB/2UK7X0bUotBg9P6B2ecJMOW3kSs=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 May 2025 13:01:23 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/ProyectoAerolineaWeb/img/Home/Passenger-plane-front-view-runway-asphalt-sunrise_2560x1440.ro0jfwavyx.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Home\Passenger-plane-front-view-runway-asphalt-sunrise_2560x1440.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ro0jfwavyx"},{"Name":"integrity","Value":"sha256-O9mo0vbpk7570oB/2UK7X0bUotBg9P6B2ecJMOW3kSs="},{"Name":"label","Value":"_content/ProyectoAerolineaWeb/img/Home/Passenger-plane-front-view-runway-asphalt-sunrise_2560x1440.jpg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1005908"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022O9mo0vbpk7570oB/2UK7X0bUotBg9P6B2ecJMOW3kSs=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 May 2025 13:01:23 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/ProyectoAerolineaWeb/img/Privacidad/aerolinea.cbwdg6idwx.webp">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Privacidad\aerolinea.webp'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"cbwdg6idwx"},{"Name":"integrity","Value":"sha256-2CwwOxP70zxDBYd6pWFZcJBlt\u002BK\u002BGs1wsS4E9L0RE3Q="},{"Name":"label","Value":"_content/ProyectoAerolineaWeb/img/Privacidad/aerolinea.webp"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"16936"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u00222CwwOxP70zxDBYd6pWFZcJBlt\u002BK\u002BGs1wsS4E9L0RE3Q=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 May 2025 13:01:23 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/ProyectoAerolineaWeb/img/Privacidad/aerolinea.webp">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Privacidad\aerolinea.webp'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-2CwwOxP70zxDBYd6pWFZcJBlt\u002BK\u002BGs1wsS4E9L0RE3Q="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"16936"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u00222CwwOxP70zxDBYd6pWFZcJBlt\u002BK\u002BGs1wsS4E9L0RE3Q=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 May 2025 13:01:23 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/ProyectoAerolineaWeb/img/Privacidad/atardecer2.ffnfv5o0cb.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Privacidad\atardecer2.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ffnfv5o0cb"},{"Name":"integrity","Value":"sha256-W1cMYdOlsiN4YcOx9nllyxvEqvYJPqF6A53/ysSVg0g="},{"Name":"label","Value":"_content/ProyectoAerolineaWeb/img/Privacidad/atardecer2.jpg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"97850"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022W1cMYdOlsiN4YcOx9nllyxvEqvYJPqF6A53/ysSVg0g=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 May 2025 13:01:23 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/ProyectoAerolineaWeb/img/Privacidad/atardecer2.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Privacidad\atardecer2.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-W1cMYdOlsiN4YcOx9nllyxvEqvYJPqF6A53/ysSVg0g="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"97850"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022W1cMYdOlsiN4YcOx9nllyxvEqvYJPqF6A53/ysSVg0g=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 May 2025 13:01:23 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-94smTCHvuMalnTiFIuBsCFIEmaLrC9AWuds\u002BJDMCacE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"61232"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u002294smTCHvuMalnTiFIuBsCFIEmaLrC9AWuds\u002BJDMCacE=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 May 2025 15:57:50 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/ProyectoAerolineaWeb/js/site.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>
@@ -839,6 +767,30 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1117"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 May 2025 13:01:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ProyectoAerolineaWeb/mp4/3593-172488287.mp4">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\mp4\3593-172488287.mp4'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-UvUs457XtHwgPshC/7oLnbofit5iJlAYLTTFKUQ8K2k="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"11749420"},{"Name":"Content-Type","Value":"video/mp4"},{"Name":"ETag","Value":"\u0022UvUs457XtHwgPshC/7oLnbofit5iJlAYLTTFKUQ8K2k=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 May 2025 16:11:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ProyectoAerolineaWeb/mp4/3593-172488287.qyrv60tr39.mp4">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\mp4\3593-172488287.mp4'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"qyrv60tr39"},{"Name":"integrity","Value":"sha256-UvUs457XtHwgPshC/7oLnbofit5iJlAYLTTFKUQ8K2k="},{"Name":"label","Value":"_content/ProyectoAerolineaWeb/mp4/3593-172488287.mp4"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"11749420"},{"Name":"Content-Type","Value":"video/mp4"},{"Name":"ETag","Value":"\u0022UvUs457XtHwgPshC/7oLnbofit5iJlAYLTTFKUQ8K2k=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 May 2025 16:11:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ProyectoAerolineaWeb/mp4/vuelos.hb9ih0x5u9.mp4">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\mp4\vuelos.mp4'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"hb9ih0x5u9"},{"Name":"integrity","Value":"sha256-U/8EXpVfu6LOAL16eBNfuKNDN/Vi4xMKYpH1RkBO/cI="},{"Name":"label","Value":"_content/ProyectoAerolineaWeb/mp4/vuelos.mp4"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"39069478"},{"Name":"Content-Type","Value":"video/mp4"},{"Name":"ETag","Value":"\u0022U/8EXpVfu6LOAL16eBNfuKNDN/Vi4xMKYpH1RkBO/cI=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 May 2025 16:54:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ProyectoAerolineaWeb/mp4/vuelos.mp4">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\mp4\vuelos.mp4'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-U/8EXpVfu6LOAL16eBNfuKNDN/Vi4xMKYpH1RkBO/cI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"39069478"},{"Name":"Content-Type","Value":"video/mp4"},{"Name":"ETag","Value":"\u0022U/8EXpVfu6LOAL16eBNfuKNDN/Vi4xMKYpH1RkBO/cI=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 May 2025 16:54:37 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/ProyectoAerolineaWeb/ProyectoAerolineaWeb.0qm8ccrqti.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProyectoAerolineaWeb.0qm8ccrqti.bundle.scp.css'))</AssetFile>

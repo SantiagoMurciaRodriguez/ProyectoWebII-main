@@ -27,56 +27,6 @@ body {
     height: 100%;
 }
 
-#principal {
-    background-image: url('/img/Home/Passenger-plane-front-view-runway-asphalt-sunrise_2560x1440.jpg');
-    background-repeat: no-repeat;
-    background-position: center center;
-    height: 1800px;
-    background-attachment: fixed;
-    background-size: cover;
-    opacity: 0.9;
-}
-
-#vuelo {
-    background-image: url('/img/Home/imagen 1 avion.jpg');
-    background-repeat: no-repeat;
-    background-position: center center;
-    height: 1800px;
-    background-attachment: fixed;
-    background-size: cover;
-    opacity: 0.9;
-}
-
-#tarifas {
-    background-image: url('/img/Home/imagen 1 avion.jpg');
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-attachment: fixed;
-    background-size: cover;
-    opacity: 0.9;
-    /* Ajustes para ocupar toda la pantalla */
-    width: 100%; /* Ocupa todo el ancho */
-    height: 100vh; /* Ocupa toda la altura de la ventana */
-    display: flex; /* Para centrar contenido si es necesario */
-    flex-direction: column; /* Alineación vertical */
-    justify-content: center; /* Centrar verticalmente */
-    align-items: center; /* Centrar horizontalmente */
-    padding: 20px; /* Espaciado interno */
-    box-sizing: border-box; /* Incluye padding en el tamaño total */
-}
-
-
-#privacidad {
-    background-image: url('/img/Privacidad/atardecer2.jpg');
-    background-repeat: no-repeat;
-    background-position: center center;
-    height: 1800px;
-    background-attachment: fixed;
-    background-size: cover;
-    opacity: 0.9;
-}
-
-
 #vuelo .table-responsive {
     background-color: rgba(255, 255, 255, 0.95); 
 }
@@ -97,3 +47,47 @@ body {
 .iconos1 {
     font-size: 25px;
 }
+
+.video-fondo {
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    min-width: 100vw;
+    min-height: 100vh;
+    max-width: 100vw;
+    max-height: 100vh;
+    z-index: -1;
+    object-fit: cover;
+    pointer-events: none; /* Opcional: evita que el video bloquee clics */
+}
+
+.video-fondovuelo {
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    min-width: 100vw;
+    min-height: 100vh;
+    max-width: 100vw;
+    max-height: 100vh;
+    z-index: -1;
+    object-fit: cover;
+    pointer-events: none; /* Opcional: evita que el video bloquee clics */
+}
+
+.contenido-superior {
+    position: relative;
+    z-index: 1;
+}
+

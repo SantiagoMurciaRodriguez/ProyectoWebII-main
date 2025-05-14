@@ -13,32 +13,8 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Downloads\\ProyectoWebII-main\\wwwroot\\img\\Home\\Imagen de WhatsApp 2025-04-07 a las 14.43.53_c7692a21.png",
-      "PackagePath": "staticwebassets\\img\\Home\\Imagen de WhatsApp 2025-04-07 a las 14.43.53_c7692a21.png"
-    },
-    {
-      "Id": "C:\\Users\\Usuario\\Downloads\\ProyectoWebII-main\\wwwroot\\img\\Home\\Passenger-plane-front-view-runway-asphalt-sunrise_2560x1440.jpg",
-      "PackagePath": "staticwebassets\\img\\Home\\Passenger-plane-front-view-runway-asphalt-sunrise_2560x1440.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Usuario\\Downloads\\ProyectoWebII-main\\wwwroot\\img\\Home\\atardecer.png",
-      "PackagePath": "staticwebassets\\img\\Home\\atardecer.png"
-    },
-    {
-      "Id": "C:\\Users\\Usuario\\Downloads\\ProyectoWebII-main\\wwwroot\\img\\Home\\cielo.png",
-      "PackagePath": "staticwebassets\\img\\Home\\cielo.png"
-    },
-    {
-      "Id": "C:\\Users\\Usuario\\Downloads\\ProyectoWebII-main\\wwwroot\\img\\Home\\imagen 1 avion.jpg",
-      "PackagePath": "staticwebassets\\img\\Home\\imagen 1 avion.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Usuario\\Downloads\\ProyectoWebII-main\\wwwroot\\img\\Privacidad\\aerolinea.webp",
-      "PackagePath": "staticwebassets\\img\\Privacidad\\aerolinea.webp"
-    },
-    {
-      "Id": "C:\\Users\\Usuario\\Downloads\\ProyectoWebII-main\\wwwroot\\img\\Privacidad\\atardecer2.jpg",
-      "PackagePath": "staticwebassets\\img\\Privacidad\\atardecer2.jpg"
+      "Id": "C:\\Users\\Usuario\\Downloads\\ProyectoWebII-main\\wwwroot\\img\\Home\\homei.jpg",
+      "PackagePath": "staticwebassets\\img\\Home\\homei.jpg"
     },
     {
       "Id": "C:\\Users\\Usuario\\Downloads\\ProyectoWebII-main\\wwwroot\\js\\site.js",
@@ -283,6 +259,14 @@
     {
       "Id": "C:\\Users\\Usuario\\Downloads\\ProyectoWebII-main\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\Downloads\\ProyectoWebII-main\\wwwroot\\mp4\\3593-172488287.mp4",
+      "PackagePath": "staticwebassets\\mp4\\3593-172488287.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\Downloads\\ProyectoWebII-main\\wwwroot\\mp4\\vuelos.mp4",
+      "PackagePath": "staticwebassets\\mp4\\vuelos.mp4"
     },
     {
       "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.ProyectoAerolineaWeb.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

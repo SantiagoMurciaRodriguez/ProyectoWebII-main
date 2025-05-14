@@ -23,4 +23,13 @@
     <Folder Include="wwwroot\img\Home\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Content Update="wwwroot\mp4\3593-172488287.mp4">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Update="wwwroot\mp4\vuelos.mp4">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
 </Project>

@@ -12,8 +12,6 @@ builder.Services.AddSession(options =>
     options.Cookie.IsEssential = true;
 });
 
-
-
 // Configurar servicios existentes
 builder.Services.AddControllersWithViews();
 builder.Services.AddRazorPages();
@@ -38,7 +36,9 @@ using (var scope = app.Services.CreateScope())
 // Usar sesiones
 app.UseSession();
 
-// Configurar el pipeline existente
+// Habilitar archivos estáticos (¡IMPORTANTE para servir videos, imágenes, etc!)
+app.UseStaticFiles();
+
 app.UseHttpsRedirection();
 app.UseRouting();
 app.UseAuthorization();
@@ -48,6 +48,3 @@ app.MapControllerRoute(
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.Run();
-
-
-
