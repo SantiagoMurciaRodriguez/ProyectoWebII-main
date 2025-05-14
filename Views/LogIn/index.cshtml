@@ -23,17 +23,17 @@
 <div class="container p-5">
     <form asp-action="Index" method="post">
         <div class="mb-3">
-            <label for="Name" class="form-label">Name</label>
+            <label for="Name" class="form-label text-white">Name</label>
             <input type="text" class="form-control" id="Name" asp-for="Name">
             <span class="text-danger" asp-validation-for="Name"></span>
         </div>
         <div class="mb-3">
-            <label for="Email" class="form-label">Email address</label>
+            <label for="Email" class="form-label text-white">Email address</label>
             <input type="email" class="form-control" id="Email" asp-for="Email">
             <span class="text-danger" asp-validation-for="Email"></span>
         </div>
         <div class="mb-3">
-            <label for="Password" class="form-label">Password</label>
+            <label for="Password" class="form-label text-white">Password</label>
             <input type="password" class="form-control" id="Password" asp-for="Password">
             <span class="text-danger" asp-validation-for="Password"></span>
         </div>

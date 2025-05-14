@@ -1,307 +1,315 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\ProyectoAerolineaWeb.bundle.scp.css",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\ProyectoAerolineaWeb.bundle.scp.css",
       "PackagePath": "staticwebassets\\ProyectoAerolineaWeb.0qm8ccrqti.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\css\\carousel.css",
+      "PackagePath": "staticwebassets\\css\\carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\css\\carousel.rtl.css",
+      "PackagePath": "staticwebassets\\css\\carousel.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\img\\Home\\homei.jpg",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\img\\Home\\homei.jpg",
       "PackagePath": "staticwebassets\\img\\Home\\homei.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\img\\Nosotros\\nosostros.jpg",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\img\\Nosotros\\nosostros.jpg",
       "PackagePath": "staticwebassets\\img\\Nosotros\\nosostros.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\img\\Pcantidad\\cantidad.jpg",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\img\\Pcantidad\\cantidad.jpg",
       "PackagePath": "staticwebassets\\img\\Pcantidad\\cantidad.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\img\\Tarifa\\Tarifa.jpg",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\img\\Tarifa\\Tarifa.jpg",
       "PackagePath": "staticwebassets\\img\\Tarifa\\Tarifa.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\img\\clases\\tarifas.jpg",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\img\\clases\\tarifas.jpg",
       "PackagePath": "staticwebassets\\img\\clases\\tarifas.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\mp4\\3593-172488287.mp4",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\mp4\\3593-172488287.mp4",
       "PackagePath": "staticwebassets\\mp4\\3593-172488287.mp4"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\mp4\\Inicio.mp4",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\mp4\\Inicio.mp4",
       "PackagePath": "staticwebassets\\mp4\\Inicio.mp4"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\mp4\\Servicios.mp4",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\mp4\\Servicios.mp4",
       "PackagePath": "staticwebassets\\mp4\\Servicios.mp4"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\mp4\\confirmar.mp4",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\mp4\\confirmar.mp4",
       "PackagePath": "staticwebassets\\mp4\\confirmar.mp4"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\mp4\\loginregister.mp4",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\mp4\\loginregister.mp4",
       "PackagePath": "staticwebassets\\mp4\\loginregister.mp4"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\mp4\\servicio2.mp4",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\mp4\\servicio2.mp4",
       "PackagePath": "staticwebassets\\mp4\\servicio2.mp4"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\mp4\\vuelos.mp4",
+      "Id": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\mp4\\vuelos.mp4",
       "PackagePath": "staticwebassets\\mp4\\vuelos.mp4"
     },
     {

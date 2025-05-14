@@ -598,9 +598,7 @@ C:\Users\User\Documents\Universidad\Programacion\ProyectomainWebII\obj\Debug\net
 C:\Users\User\Documents\Universidad\Programacion\ProyectomainWebII\obj\Debug\net9.0\ProyectoAerolineaWeb.pdb
 C:\Users\User\Documents\Universidad\Programacion\ProyectomainWebII\obj\Debug\net9.0\ProyectoAerolineaWeb.genruntimeconfig.cache
 C:\Users\User\Documents\Universidad\Programacion\ProyectomainWebII\obj\Debug\net9.0\ref\ProyectoAerolineaWeb.dll
-C:\Users\User\Documents\Universidad\Programacion\ProyectomainWebII\obj\Debug\net9.0\compressed\80kiye1zqq-c3plzkjnti.gz
 C:\Users\User\Documents\Universidad\Programacion\ProyectomainWebII\obj\Debug\net9.0\ProyectoAerolineaWeb.sourcelink.json
-C:\Users\User\Documents\Universidad\Programacion\ProyectomainWebII\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 D:\ProyectoWebII-main\bin\Debug\net9.0\appsettings.Development.json
 D:\ProyectoWebII-main\bin\Debug\net9.0\appsettings.json
 D:\ProyectoWebII-main\bin\Debug\net9.0\ProyectoAerolineaWeb.staticwebassets.runtime.json
@@ -1303,3 +1301,12 @@ C:\Users\User\Downloads\ProyectoWebII-main\bin\Debug\net9.0\wwwroot\mp4\vuelos.m
 C:\Users\User\Downloads\ProyectoWebII-main\bin\Debug\net9.0\wwwroot\mp4\Servicios.mp4
 C:\Users\User\Downloads\ProyectoWebII-main\bin\Debug\net9.0\wwwroot\mp4\servicio2.mp4
 C:\Users\User\Downloads\ProyectoWebII-main\obj\Debug\net9.0\compressed\80kiye1zqq-ybgcpw55pq.gz
+C:\Users\User\Documents\Universidad\Programacion\ProyectomainWebII\bin\Debug\net9.0\wwwroot\mp4\3593-172488287.mp4
+C:\Users\User\Documents\Universidad\Programacion\ProyectomainWebII\bin\Debug\net9.0\wwwroot\mp4\Inicio.mp4
+C:\Users\User\Documents\Universidad\Programacion\ProyectomainWebII\bin\Debug\net9.0\wwwroot\mp4\servicio2.mp4
+C:\Users\User\Documents\Universidad\Programacion\ProyectomainWebII\bin\Debug\net9.0\wwwroot\mp4\Servicios.mp4
+C:\Users\User\Documents\Universidad\Programacion\ProyectomainWebII\bin\Debug\net9.0\wwwroot\mp4\vuelos.mp4
+C:\Users\User\Documents\Universidad\Programacion\ProyectomainWebII\obj\Debug\net9.0\compressed\s14hmx9t41-w498uazjga.gz
+C:\Users\User\Documents\Universidad\Programacion\ProyectomainWebII\obj\Debug\net9.0\compressed\h6hdfjykz5-pwhvmzjso9.gz
+C:\Users\User\Documents\Universidad\Programacion\ProyectomainWebII\obj\Debug\net9.0\compressed\80kiye1zqq-m7iupjttip.gz
+C:\Users\User\Documents\Universidad\Programacion\ProyectomainWebII\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

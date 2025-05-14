@@ -17,69 +17,69 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ProyectoAerolineaWeb
 build_property.RootNamespace = ProyectoAerolineaWeb
-build_property.ProjectDir = C:\Users\User\Downloads\ProyectoWebII-main\
+build_property.ProjectDir = C:\Users\User\Documents\Universidad\Programacion\ProyectomainWebII\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\User\Downloads\ProyectoWebII-main
+build_property.MSBuildProjectDirectory = C:\Users\User\Documents\Universidad\Programacion\ProyectomainWebII
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/User/Downloads/ProyectoWebII-main/Views/Home/Index.cshtml]
+[C:/Users/User/Documents/Universidad/Programacion/ProyectomainWebII/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Downloads/ProyectoWebII-main/Views/Home/Privacy.cshtml]
+[C:/Users/User/Documents/Universidad/Programacion/ProyectomainWebII/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Downloads/ProyectoWebII-main/Views/LogIn/index.cshtml]
+[C:/Users/User/Documents/Universidad/Programacion/ProyectomainWebII/Views/LogIn/index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9nSW5caW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Downloads/ProyectoWebII-main/Views/LogIn/register.cshtml]
+[C:/Users/User/Documents/Universidad/Programacion/ProyectomainWebII/Views/LogIn/register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9nSW5ccmVnaXN0ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Downloads/ProyectoWebII-main/Views/Shared/Error.cshtml]
+[C:/Users/User/Documents/Universidad/Programacion/ProyectomainWebII/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Downloads/ProyectoWebII-main/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/User/Documents/Universidad/Programacion/ProyectomainWebII/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Downloads/ProyectoWebII-main/Views/Tarifas/index.cshtml]
+[C:/Users/User/Documents/Universidad/Programacion/ProyectomainWebII/Views/Tarifas/index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyaWZhc1xpbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Downloads/ProyectoWebII-main/Views/Vuelos/Cantidad.cshtml]
+[C:/Users/User/Documents/Universidad/Programacion/ProyectomainWebII/Views/Vuelos/Cantidad.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVnVlbG9zXENhbnRpZGFkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Downloads/ProyectoWebII-main/Views/Vuelos/Confirmar.cshtml]
+[C:/Users/User/Documents/Universidad/Programacion/ProyectomainWebII/Views/Vuelos/Confirmar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVnVlbG9zXENvbmZpcm1hci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Downloads/ProyectoWebII-main/Views/Vuelos/index.cshtml]
+[C:/Users/User/Documents/Universidad/Programacion/ProyectomainWebII/Views/Vuelos/index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVnVlbG9zXGluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Downloads/ProyectoWebII-main/Views/Vuelos/Servicios.cshtml]
+[C:/Users/User/Documents/Universidad/Programacion/ProyectomainWebII/Views/Vuelos/Servicios.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVnVlbG9zXFNlcnZpY2lvcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Downloads/ProyectoWebII-main/Views/_ViewImports.cshtml]
+[C:/Users/User/Documents/Universidad/Programacion/ProyectomainWebII/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Downloads/ProyectoWebII-main/Views/_ViewStart.cshtml]
+[C:/Users/User/Documents/Universidad/Programacion/ProyectomainWebII/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Downloads/ProyectoWebII-main/Views/Shared/_Layout.cshtml]
+[C:/Users/User/Documents/Universidad/Programacion/ProyectomainWebII/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-zg9uhlwqh8
