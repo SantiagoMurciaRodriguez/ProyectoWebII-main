@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace ProyectoAerolineaWeb.Migrations
 {
     /// <inheritdoc />
-    public partial class Migracionuno : Migration
+    public partial class chanty : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -22,6 +22,20 @@ namespace ProyectoAerolineaWeb.Migrations
                 constraints: table =>
                 {
                     table.PrimaryKey("PK_Ciudades", x => x.Id);
+                });
+
+            migrationBuilder.CreateTable(
+                name: "ConfirmacionesReserva",
+                columns: table => new
+                {
+                    Id = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    ServicioId = table.Column<int>(type: "int", nullable: false),
+                    ContactoEmergencia = table.Column<string>(type: "nvarchar(max)", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_ConfirmacionesReserva", x => x.Id);
                 });
 
             migrationBuilder.CreateTable(
@@ -83,7 +97,10 @@ namespace ProyectoAerolineaWeb.Migrations
                     CiudadOrigenId = table.Column<int>(type: "int", nullable: false),
                     CiudadDestinoId = table.Column<int>(type: "int", nullable: false),
                     Fecha = table.Column<DateTime>(type: "datetime2", nullable: false),
-                    AsientosDisponibles = table.Column<int>(type: "int", nullable: false)
+                    AsientosDisponibles = table.Column<int>(type: "int", nullable: false),
+                    StockMaletas = table.Column<int>(type: "int", nullable: false),
+                    StockComidas = table.Column<int>(type: "int", nullable: false),
+                    StockMascotas = table.Column<int>(type: "int", nullable: false)
                 },
                 constraints: table =>
                 {
@@ -142,6 +159,9 @@ namespace ProyectoAerolineaWeb.Migrations
         /// <inheritdoc />
         protected override void Down(MigrationBuilder migrationBuilder)
         {
+            migrationBuilder.DropTable(
+                name: "ConfirmacionesReserva");
+
             migrationBuilder.DropTable(
                 name: "Pasajeros");
 

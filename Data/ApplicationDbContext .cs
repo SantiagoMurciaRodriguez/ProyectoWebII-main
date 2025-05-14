@@ -18,6 +18,8 @@ namespace ProyectoAerolineaWeb.Data
         public DbSet<Pasajeros> Pasajeros { get; set; }
         public DbSet<Servicios> Servicios { get; set; }
         public DbSet<ConfirmacionReserva> ConfirmacionesReserva { get; set; }
+        
+
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
@@ -64,7 +66,7 @@ namespace ProyectoAerolineaWeb.Data
                         CiudadOrigenId = Ciudades.First(c => c.Nombre == "Ciudad A").Id,
                         CiudadDestinoId = Ciudades.First(c => c.Nombre == "Ciudad B").Id,
                         Fecha = DateTime.Now.AddDays(1),
-                        AsientosDisponibles = 10
+                        AsientosDisponibles = 100
                     },
                     new Vuelo
                     {
@@ -72,7 +74,7 @@ namespace ProyectoAerolineaWeb.Data
                         CiudadOrigenId = Ciudades.First(c => c.Nombre == "Ciudad B").Id,
                         CiudadDestinoId = Ciudades.First(c => c.Nombre == "Ciudad C").Id,
                         Fecha = DateTime.Now.AddDays(2),
-                        AsientosDisponibles = 5
+                        AsientosDisponibles = 100
                     },
                     new Vuelo
                     {

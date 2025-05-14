@@ -19,6 +19,7 @@
     <div class="form-group">
         <label asp-for="ContactoEmergencia"></label>
         <input asp-for="ContactoEmergencia" class="form-control" />
+        <span asp-validation-for="ContactoEmergencia" class="text-danger"></span>
     </div>
     <button type="submit" class="btn btn-success">Confirmar</button>
 </form>
@@ -27,3 +28,7 @@
     <input type="hidden" name="servicioId" value="@servicio?.Id" />
     <button type="submit" class="btn btn-danger">Cancelar</button>
 </form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

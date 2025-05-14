@@ -12,8 +12,8 @@ using ProyectoAerolineaWeb.Data;
 namespace ProyectoAerolineaWeb.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20250513134804_Migraciondos")]
-    partial class Migraciondos
+    [Migration("20250514151629_chanty")]
+    partial class chanty
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -191,6 +191,15 @@ namespace ProyectoAerolineaWeb.Migrations
                     b.Property<string>("NumeroVuelo")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("StockComidas")
+                        .HasColumnType("int");
+
+                    b.Property<int>("StockMaletas")
+                        .HasColumnType("int");
+
+                    b.Property<int>("StockMascotas")
+                        .HasColumnType("int");
 
                     b.HasKey("Id");
 

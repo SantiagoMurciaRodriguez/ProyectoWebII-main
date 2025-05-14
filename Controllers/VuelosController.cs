@@ -49,6 +49,9 @@ namespace ProyectoAerolineaWeb.Controllers
                 Niños = 0
             };
 
+            var vuelo = _context.Vuelos.FirstOrDefault(v => v.Id == VueloId);
+            ViewBag.AsientosDisponibles = vuelo?.AsientosDisponibles ?? 0;
+
             return View(model);
         }
 
@@ -61,6 +64,29 @@ namespace ProyectoAerolineaWeb.Controllers
                 return View(model);
             }
 
+            // Calcular el total de pasajeros a registrar
+            int totalPasajeros = model.Ancianos + model.Adultos + model.Niños;
+
+            // Buscar el vuelo correspondiente
+            var vuelo = _context.Vuelos.FirstOrDefault(v => v.Id == model.VueloId);
+            if (vuelo == null)
+            {
+                TempData["ErrorMessage"] = "Vuelo no encontrado.";
+                return View(model);
+            }
+
+            // Validar stock de asientos
+            if (totalPasajeros > vuelo.AsientosDisponibles)
+            {
+                TempData["ErrorMessage"] = $"No hay suficientes asientos disponibles. Solo quedan {vuelo.AsientosDisponibles}.";
+                return View(model);
+            }
+
+            // Descontar asientos
+            vuelo.AsientosDisponibles -= totalPasajeros;
+            _context.SaveChanges();
+
+            // Registrar los pasajeros
             var newPasajeros = new Pasajeros
             {
                 VueloId = model.VueloId,
@@ -75,5 +101,6 @@ namespace ProyectoAerolineaWeb.Controllers
             TempData["SuccessMessage"] = "Registro exitoso de pasajeros.";
             return RedirectToAction("Index", "Tarifas", new { VueloId = model.VueloId, PasajerosId = newPasajeros.Id });
         }
+
     }
 }

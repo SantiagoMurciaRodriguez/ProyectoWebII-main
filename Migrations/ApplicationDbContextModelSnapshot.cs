@@ -189,6 +189,15 @@ namespace ProyectoAerolineaWeb.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<int>("StockComidas")
+                        .HasColumnType("int");
+
+                    b.Property<int>("StockMaletas")
+                        .HasColumnType("int");
+
+                    b.Property<int>("StockMascotas")
+                        .HasColumnType("int");
+
                     b.HasKey("Id");
 
                     b.HasIndex("CiudadDestinoId");

@@ -13,5 +13,8 @@
 
         public DateTime Fecha { get; set; }
         public int AsientosDisponibles { get; set; }
+        public int StockMaletas { get; set; } = 100;
+        public int StockComidas { get; set; } = 100;
+        public int StockMascotas { get; set; } = 100;
     }
 }

@@ -1,4 +1,5 @@
 ﻿@model ProyectoAerolineaWeb.Models.Pasajeros
+
 @if (TempData != null && TempData["SuccessMessage"] != null)
 {
     <div class="alert alert-success">
@@ -12,15 +13,23 @@
     </div>
 }
 
+@if (ViewBag.AsientosDisponibles != null)
+{
+    <div class="alert alert-info">
+        Asientos disponibles: @ViewBag.AsientosDisponibles
+    </div>
+}
+
 <div id="Cantidad" class="container-fluid">
-    <h1>Su vuelo es el numero: @Model.VueloId</h1> 
+    <h1>Su vuelo es el número: @Model.VueloId</h1>
     <h1 class="text-primary">Selecciona cantidad de pasajeros</h1>
     <form asp-action="Cantidad" method="post">
         <input type="hidden" asp-for="VueloId" />
         <div class="form-row">
             <div class="form-group col-md-4">
-                <label for="inputState">Ancianos</label>
-                <select id="inputState" class="form-control" asp-for="Ancianos">
+                <label for="Ancianos">Ancianos</label>
+                <select id="Ancianos" class="form-control" asp-for="Ancianos">
+                    <option>0</option>
                     <option selected>1</option>
                     <option>2</option>
                     <option>3</option>
@@ -30,8 +39,9 @@
             </div>
 
             <div class="form-group col-md-4">
-                <label for="inputState">Adultos</label>
-                <select id="inputState" class="form-control" asp-for="Adultos">
+                <label for="Adultos">Adultos</label>
+                <select id="Adultos" class="form-control" asp-for="Adultos">
+                    <option>0</option>
                     <option selected>1</option>
                     <option>2</option>
                     <option>3</option>
@@ -41,8 +51,9 @@
             </div>
 
             <div class="form-group col-md-4">
-                <label for="inputState">Niños</label>
-                <select id="inputState" class="form-control" asp-for="Niños">
+                <label for="Niños">Niños</label>
+                <select id="Niños" class="form-control" asp-for="Niños">
+                    <option>0</option>
                     <option selected>1</option>
                     <option>2</option>
                     <option>3</option>

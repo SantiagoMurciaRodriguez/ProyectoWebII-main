@@ -18,8 +18,15 @@ namespace ProyectoAerolineaWeb.Controllers
         {
             var viewModel = new Servicios
             {
-                PasajerosId = pasajerosId
+                PasajerosId = pasajerosId,
+                VueloId = vueloId,
+                TarifaId = tarifaId
             };
+
+            var vuelo = _context.Vuelos.FirstOrDefault(v => v.Id == vueloId);
+            ViewBag.StockMaletas = vuelo?.StockMaletas ?? 0;
+            ViewBag.StockComidas = vuelo?.StockComidas ?? 0;
+            ViewBag.StockMascotas = vuelo?.StockMascotas ?? 0;
 
             ViewBag.TarifaId = tarifaId;
             ViewBag.VueloId = vueloId;
@@ -32,6 +39,38 @@ namespace ProyectoAerolineaWeb.Controllers
         {
             if (ModelState.IsValid)
             {
+                // Buscar el vuelo correspondiente
+                var vuelo = _context.Vuelos.FirstOrDefault(v => v.Id == model.VueloId);
+                if (vuelo == null)
+                {
+                    TempData["ErrorMessage"] = "Vuelo no encontrado.";
+                    return RedirectToAction("Index", new { tarifaId = model.TarifaId, vueloId = model.VueloId, pasajerosId = model.PasajerosId });
+                }
+
+                // Validar stock suficiente
+                if (model.Maletas > vuelo.StockMaletas)
+                {
+                    TempData["ErrorMessage"] = "No hay stock suficiente de maletas.";
+                    return RedirectToAction("Index", new { tarifaId = model.TarifaId, vueloId = model.VueloId, pasajerosId = model.PasajerosId });
+                }
+                if (model.Comidas > vuelo.StockComidas)
+                {
+                    TempData["ErrorMessage"] = "No hay stock suficiente de comidas.";
+                    return RedirectToAction("Index", new { tarifaId = model.TarifaId, vueloId = model.VueloId, pasajerosId = model.PasajerosId });
+                }
+                if (model.Mascotas > vuelo.StockMascotas)
+                {
+                    TempData["ErrorMessage"] = "No hay stock suficiente de mascotas.";
+                    return RedirectToAction("Index", new { tarifaId = model.TarifaId, vueloId = model.VueloId, pasajerosId = model.PasajerosId });
+                }
+
+                // Descontar stock
+                vuelo.StockMaletas -= model.Maletas;
+                vuelo.StockComidas -= model.Comidas;
+                vuelo.StockMascotas -= model.Mascotas;
+                _context.SaveChanges();
+
+                // Registrar el servicio para el pasajero
                 var newServicio = new Servicios
                 {
                     PasajerosId = model.PasajerosId,
@@ -75,6 +114,7 @@ namespace ProyectoAerolineaWeb.Controllers
             ViewBag.Servicio = _context.Servicios.FirstOrDefault(s => s.Id == model.ServicioId);
             return View("~/Views/Vuelos/Confirmar.cshtml", model); // Ruta explícita
         }
+
         [HttpPost]
         public IActionResult Cancelar(int servicioId)
         {
