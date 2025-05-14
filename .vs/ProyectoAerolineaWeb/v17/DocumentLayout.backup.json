@@ -1,14 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Usuario\\Downloads\\ProyectoWebII-main\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C93151B8-827B-4875-ECD1-4E44BFC7B282}|ProyectoAerolineaWeb.csproj|c:\\users\\usuario\\downloads\\proyectowebii-main\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{C93151B8-827B-4875-ECD1-4E44BFC7B282}|ProyectoAerolineaWeb.csproj|c:\\users\\user\\downloads\\proyectowebii-main\\views\\login\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C93151B8-827B-4875-ECD1-4E44BFC7B282}|ProyectoAerolineaWeb.csproj|solutionrelative:views\\login\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C93151B8-827B-4875-ECD1-4E44BFC7B282}|ProyectoAerolineaWeb.csproj|c:\\users\\user\\downloads\\proyectowebii-main\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C93151B8-827B-4875-ECD1-4E44BFC7B282}|ProyectoAerolineaWeb.csproj|solutionrelative:views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C93151B8-827B-4875-ECD1-4E44BFC7B282}|ProyectoAerolineaWeb.csproj|c:\\users\\user\\downloads\\proyectowebii-main\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{C93151B8-827B-4875-ECD1-4E44BFC7B282}|ProyectoAerolineaWeb.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C93151B8-827B-4875-ECD1-4E44BFC7B282}|ProyectoAerolineaWeb.csproj|c:\\users\\usuario\\downloads\\proyectowebii-main\\views\\vuelos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C93151B8-827B-4875-ECD1-4E44BFC7B282}|ProyectoAerolineaWeb.csproj|solutionrelative:views\\vuelos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C93151B8-827B-4875-ECD1-4E44BFC7B282}|ProyectoAerolineaWeb.csproj|c:\\users\\user\\downloads\\proyectowebii-main\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C93151B8-827B-4875-ECD1-4E44BFC7B282}|ProyectoAerolineaWeb.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,17 +26,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\ProyectoWebII-main\\wwwroot\\css\\site.css",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\Usuario\\Downloads\\ProyectoWebII-main\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\wwwroot\\css\\site.css",
               "RelativeToolTip": "wwwroot\\css\\site.css",
-              "ViewState": "AgIAADoAAAAAAAAAAAAQwE0AAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAswGIAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-05-14T15:45:15.001Z",
               "IsPinned": true,
@@ -36,20 +44,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\ProyectoWebII-main\\Views\\Vuelos\\index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Vuelos\\index.cshtml",
-              "ToolTip": "C:\\Users\\Usuario\\Downloads\\ProyectoWebII-main\\Views\\Vuelos\\index.cshtml",
-              "RelativeToolTip": "Views\\Vuelos\\index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "register.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\Views\\LogIn\\register.cshtml",
+              "RelativeDocumentMoniker": "Views\\LogIn\\register.cshtml",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\Views\\LogIn\\register.cshtml",
+              "RelativeToolTip": "Views\\LogIn\\register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-14T16:58:10.296Z",
+              "WhenOpened": "2025-05-14T19:43:13.693Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\Views\\LogIn\\index.cshtml",
+              "RelativeDocumentMoniker": "Views\\LogIn\\index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\Views\\LogIn\\index.cshtml",
+              "RelativeToolTip": "Views\\LogIn\\index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T19:42:56.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ProyectoWebII-main\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T19:42:48.273Z",
+              "EditorCaption": ""
             }
           ]
         }

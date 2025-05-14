@@ -27,6 +27,15 @@
     <Content Update="wwwroot\mp4\3593-172488287.mp4">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Content Update="wwwroot\mp4\Inicio.mp4">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Update="wwwroot\mp4\servicio2.mp4">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Update="wwwroot\mp4\Servicios.mp4">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Update="wwwroot\mp4\vuelos.mp4">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
