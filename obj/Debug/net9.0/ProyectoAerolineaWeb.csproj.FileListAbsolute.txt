@@ -1308,5 +1308,5 @@ C:\Users\User\Documents\Universidad\Programacion\ProyectomainWebII\bin\Debug\net
 C:\Users\User\Documents\Universidad\Programacion\ProyectomainWebII\bin\Debug\net9.0\wwwroot\mp4\vuelos.mp4
 C:\Users\User\Documents\Universidad\Programacion\ProyectomainWebII\obj\Debug\net9.0\compressed\s14hmx9t41-w498uazjga.gz
 C:\Users\User\Documents\Universidad\Programacion\ProyectomainWebII\obj\Debug\net9.0\compressed\h6hdfjykz5-pwhvmzjso9.gz
-C:\Users\User\Documents\Universidad\Programacion\ProyectomainWebII\obj\Debug\net9.0\compressed\80kiye1zqq-m7iupjttip.gz
+C:\Users\User\Documents\Universidad\Programacion\ProyectomainWebII\obj\Debug\net9.0\compressed\80kiye1zqq-w1mkico7er.gz
 C:\Users\User\Documents\Universidad\Programacion\ProyectomainWebII\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

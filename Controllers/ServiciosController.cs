@@ -90,15 +90,20 @@ namespace ProyectoAerolineaWeb.Controllers
 
             return View(model);
         }
-        // GET: Confirmar
         public IActionResult Confirmar(int servicioId)
         {
             var servicio = _context.Servicios.FirstOrDefault(s => s.Id == servicioId);
             if (servicio == null) return NotFound();
 
+            var pasajeros = _context.Pasajeros.FirstOrDefault(p => p.Id == servicio.PasajerosId);
+            int totalPasajeros = (pasajeros?.Ancianos ?? 0) + (pasajeros?.Adultos ?? 0) + (pasajeros?.Niños ?? 0);
+
             ViewBag.Servicio = servicio;
+            ViewBag.TotalPasajeros = totalPasajeros;
+            ViewBag.PasajerosId = servicio.PasajerosId;
+
             var model = new ConfirmacionReserva { ServicioId = servicioId };
-            return View("~/Views/Vuelos/Confirmar.cshtml", model); // Ruta explícita
+            return View("~/Views/Vuelos/Confirmar.cshtml", model);
         }
 
         [HttpPost]
@@ -142,6 +147,25 @@ namespace ProyectoAerolineaWeb.Controllers
             _context.SaveChanges();
             TempData["SuccessMessage"] = "Reserva cancelada correctamente.";
             return RedirectToAction("Index", "Home");
+        }
+        [HttpPost]
+        public IActionResult GuardarDetallesPasajero(DetallePasajeroViewModel model)
+        {
+            if (ModelState.IsValid)
+            {
+                foreach (var detalle in model.Detalles)
+                {
+                    detalle.PasajerosId = model.PasajerosId;
+                    _context.DetallesPasajero.Add(detalle);
+                }
+                _context.SaveChanges();
+                TempData["SuccessMessage"] = "Datos de pasajeros guardados correctamente.";
+            }
+            else
+            {
+                TempData["ErrorMessage"] = "Verifica los datos de los pasajeros.";
+            }
+            return RedirectToAction("Confirmar", new { servicioId = _context.Servicios.FirstOrDefault(s => s.PasajerosId == model.PasajerosId)?.Id });
         }
     }
 }

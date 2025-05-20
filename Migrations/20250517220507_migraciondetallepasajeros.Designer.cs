@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using ProyectoAerolineaWeb.Data;
 
@@ -11,9 +12,11 @@ using ProyectoAerolineaWeb.Data;
 namespace ProyectoAerolineaWeb.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    partial class ApplicationDbContextModelSnapshot : ModelSnapshot
+    [Migration("20250517220507_migraciondetallepasajeros")]
+    partial class migraciondetallepasajeros
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -67,6 +70,9 @@ namespace ProyectoAerolineaWeb.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
+                    b.Property<int>("ConfirmacionReservaId")
+                        .HasColumnType("int");
+
                     b.Property<DateTime>("FechaNacimiento")
                         .HasColumnType("datetime2");
 
@@ -90,6 +96,8 @@ namespace ProyectoAerolineaWeb.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
+
+                    b.HasIndex("ConfirmacionReservaId");
 
                     b.ToTable("DetallesPasajero");
                 });
@@ -242,6 +250,17 @@ namespace ProyectoAerolineaWeb.Migrations
                     b.ToTable("Vuelos");
                 });
 
+            modelBuilder.Entity("ProyectoAerolineaWeb.Models.DetallePasajero", b =>
+                {
+                    b.HasOne("ProyectoAerolineaWeb.Models.ConfirmacionReserva", "ConfirmacionReserva")
+                        .WithMany("Pasajeros")
+                        .HasForeignKey("ConfirmacionReservaId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("ConfirmacionReserva");
+                });
+
             modelBuilder.Entity("ProyectoAerolineaWeb.Models.Tarifa", b =>
                 {
                     b.HasOne("ProyectoAerolineaWeb.Models.Vuelo", "Vuelo")
@@ -270,6 +289,11 @@ namespace ProyectoAerolineaWeb.Migrations
                     b.Navigation("CiudadDestino");
 
                     b.Navigation("CiudadOrigen");
+                });
+
+            modelBuilder.Entity("ProyectoAerolineaWeb.Models.ConfirmacionReserva", b =>
+                {
+                    b.Navigation("Pasajeros");
                 });
 #pragma warning restore 612, 618
         }

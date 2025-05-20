@@ -3,16 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C93151B8-827B-4875-ECD1-4E44BFC7B282}|ProyectoAerolineaWeb.csproj|c:\\users\\user\\documents\\universidad\\programacion\\proyectomainwebii\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C93151B8-827B-4875-ECD1-4E44BFC7B282}|ProyectoAerolineaWeb.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C93151B8-827B-4875-ECD1-4E44BFC7B282}|ProyectoAerolineaWeb.csproj|c:\\users\\user\\documents\\universidad\\programacion\\proyectomainwebii\\views\\vuelos\\confirmar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C93151B8-827B-4875-ECD1-4E44BFC7B282}|ProyectoAerolineaWeb.csproj|solutionrelative:views\\vuelos\\confirmar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C93151B8-827B-4875-ECD1-4E44BFC7B282}|ProyectoAerolineaWeb.csproj|c:\\users\\user\\documents\\universidad\\programacion\\proyectomainwebii\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{C93151B8-827B-4875-ECD1-4E44BFC7B282}|ProyectoAerolineaWeb.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{C93151B8-827B-4875-ECD1-4E44BFC7B282}|ProyectoAerolineaWeb.csproj|c:\\users\\user\\documents\\universidad\\programacion\\proyectomainwebii\\controllers\\servicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C93151B8-827B-4875-ECD1-4E44BFC7B282}|ProyectoAerolineaWeb.csproj|solutionrelative:controllers\\servicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C93151B8-827B-4875-ECD1-4E44BFC7B282}|ProyectoAerolineaWeb.csproj|c:\\users\\user\\documents\\universidad\\programacion\\proyectomainwebii\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C93151B8-827B-4875-ECD1-4E44BFC7B282}|ProyectoAerolineaWeb.csproj|solutionrelative:views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C93151B8-827B-4875-ECD1-4E44BFC7B282}|ProyectoAerolineaWeb.csproj|c:\\users\\user\\documents\\universidad\\programacion\\proyectomainwebii\\models\\detallepasajeroviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C93151B8-827B-4875-ECD1-4E44BFC7B282}|ProyectoAerolineaWeb.csproj|solutionrelative:models\\detallepasajeroviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C93151B8-827B-4875-ECD1-4E44BFC7B282}|ProyectoAerolineaWeb.csproj|c:\\users\\user\\documents\\universidad\\programacion\\proyectomainwebii\\models\\detallepasajero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C93151B8-827B-4875-ECD1-4E44BFC7B282}|ProyectoAerolineaWeb.csproj|solutionrelative:models\\detallepasajero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C93151B8-827B-4875-ECD1-4E44BFC7B282}|ProyectoAerolineaWeb.csproj|c:\\users\\user\\documents\\universidad\\programacion\\proyectomainwebii\\models\\confirmacionreserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C93151B8-827B-4875-ECD1-4E44BFC7B282}|ProyectoAerolineaWeb.csproj|solutionrelative:models\\confirmacionreserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C93151B8-827B-4875-ECD1-4E44BFC7B282}|ProyectoAerolineaWeb.csproj|c:\\users\\user\\documents\\universidad\\programacion\\proyectomainwebii\\models\\pasajeros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C93151B8-827B-4875-ECD1-4E44BFC7B282}|ProyectoAerolineaWeb.csproj|solutionrelative:models\\pasajeros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C93151B8-827B-4875-ECD1-4E44BFC7B282}|ProyectoAerolineaWeb.csproj|c:\\users\\user\\documents\\universidad\\programacion\\proyectomainwebii\\models\\servicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C93151B8-827B-4875-ECD1-4E44BFC7B282}|ProyectoAerolineaWeb.csproj|solutionrelative:models\\servicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C93151B8-827B-4875-ECD1-4E44BFC7B282}|ProyectoAerolineaWeb.csproj|c:\\users\\user\\documents\\universidad\\programacion\\proyectomainwebii\\views\\vuelos\\servicios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C93151B8-827B-4875-ECD1-4E44BFC7B282}|ProyectoAerolineaWeb.csproj|solutionrelative:views\\vuelos\\servicios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,19 +42,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "wwwroot\\css\\site.css",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAADUAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-05-14T15:45:15.001Z",
+              "Title": "ServiciosController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\Controllers\\ServiciosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ServiciosController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\Controllers\\ServiciosController.cs",
+              "RelativeToolTip": "Controllers\\ServiciosController.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAQwJcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T22:19:26.474Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
@@ -44,28 +64,93 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-14T21:32:13.959Z",
+              "DocumentIndex": 2,
+              "Title": "DetallePasajeroViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\Models\\DetallePasajeroViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\DetallePasajeroViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\Models\\DetallePasajeroViewModel.cs",
+              "RelativeToolTip": "Models\\DetallePasajeroViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T22:48:28.493Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "index.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\Views\\LogIn\\index.cshtml",
-              "RelativeDocumentMoniker": "Views\\LogIn\\index.cshtml",
-              "ToolTip": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\Views\\LogIn\\index.cshtml",
-              "RelativeToolTip": "Views\\LogIn\\index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAA+AAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "Servicios.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\Views\\Vuelos\\Servicios.cshtml",
+              "RelativeDocumentMoniker": "Views\\Vuelos\\Servicios.cshtml",
+              "ToolTip": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\Views\\Vuelos\\Servicios.cshtml",
+              "RelativeToolTip": "Views\\Vuelos\\Servicios.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-14T19:42:56.717Z",
+              "WhenOpened": "2025-05-17T22:19:53.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Servicios.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\Models\\Servicios.cs",
+              "RelativeDocumentMoniker": "Models\\Servicios.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\Models\\Servicios.cs",
+              "RelativeToolTip": "Models\\Servicios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T22:18:39.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Confirmar.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\Views\\Vuelos\\Confirmar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Vuelos\\Confirmar.cshtml",
+              "ToolTip": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\Views\\Vuelos\\Confirmar.cshtml",
+              "RelativeToolTip": "Views\\Vuelos\\Confirmar.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAADkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-17T22:18:21.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DetallePasajero.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\Models\\DetallePasajero.cs",
+              "RelativeDocumentMoniker": "Models\\DetallePasajero.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\Models\\DetallePasajero.cs",
+              "RelativeToolTip": "Models\\DetallePasajero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T21:54:15.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConfirmacionReserva.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\Models\\ConfirmacionReserva.cs",
+              "RelativeDocumentMoniker": "Models\\ConfirmacionReserva.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\Models\\ConfirmacionReserva.cs",
+              "RelativeToolTip": "Models\\ConfirmacionReserva.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T21:47:35.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pasajeros.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\Models\\Pasajeros.cs",
+              "RelativeDocumentMoniker": "Models\\Pasajeros.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Universidad\\Programacion\\ProyectomainWebII\\Models\\Pasajeros.cs",
+              "RelativeToolTip": "Models\\Pasajeros.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T21:30:35.877Z",
               "EditorCaption": ""
             }
           ]
